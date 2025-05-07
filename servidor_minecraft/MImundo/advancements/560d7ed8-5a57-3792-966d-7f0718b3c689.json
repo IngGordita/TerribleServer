@@ -120,9 +120,21 @@
     },
     "done": true
   },
+  "spore:inf_mobs": {
+    "criteria": {
+      "hurt_by_infected": "2025-05-07 07:47:58 +0000"
+    },
+    "done": true
+  },
   "projectvibrantjourneys:recipes/misc/brown_dye_from_bark_mushroom": {
     "criteria": {
       "has_bark_mushroom": "2025-05-07 07:38:18 +0000"
+    },
+    "done": true
+  },
+  "spore:busser": {
+    "criteria": {
+      "hurt_by_infected": "2025-05-07 07:47:58 +0000"
     },
     "done": true
   },
