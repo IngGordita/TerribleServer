@@ -1,0 +1,1136 @@
+[07May2025 07:35:00.598] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[07May2025 07:35:00.604] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1026-azure
+[07May2025 07:35:04.618] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[07May2025 07:35:04.699] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/TerribleServer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[07May2025 07:35:05.243] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[07May2025 07:35:05.244] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07May2025 07:35:05.245] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07May2025 07:35:05.247] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[07May2025 07:35:06.336] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 45 dependencies adding them to mods collection
+[07May2025 07:35:06.813] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[07May2025 07:35:06.838] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[07May2025 07:35:06.853] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[07May2025 07:35:06.864] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/TerribleServer/servidor_minecraft/mods/scripts as it did not exist.
+[07May2025 07:35:06.874] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[07May2025 07:35:10.380] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 3356ms
+[07May2025 07:35:10.383] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[07May2025 07:35:11.219] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[07May2025 07:35:11.241] [main/ERROR] [mixin/]: Mixin config palladiumcore-common.mixins.json does not specify "minVersion" property
+[07May2025 07:35:11.244] [main/ERROR] [mixin/]: Mixin config palladiumcore.mixins.json does not specify "minVersion" property
+[07May2025 07:35:11.300] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[07May2025 07:35:11.467] [main/ERROR] [mixin/]: Mixin config vc_gliders-common.mixins.json does not specify "minVersion" property
+[07May2025 07:35:11.470] [main/ERROR] [mixin/]: Mixin config vc_gliders.mixins.json does not specify "minVersion" property
+[07May2025 07:35:11.528] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[07May2025 07:35:11.608] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[07May2025 07:35:11.609] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[07May2025 07:35:11.612] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[07May2025 07:35:11.739] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[07May2025 07:35:11.740] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[07May2025 07:35:11.755] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[07May2025 07:35:11.898] [main/WARN] [mixin/]: Reference map 'mixins.warborn.refmap.json' for warborn.mixins.json could not be read. If this is a development environment you can ignore this message
+[07May2025 07:35:11.912] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[07May2025 07:35:11.916] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[07May2025 07:35:11.989] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 148 options available, 0 override(s) found
+[07May2025 07:35:12.232] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[07May2025 07:35:12.286] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[07May2025 07:35:15.237] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[07May2025 07:35:16.577] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (20.23 s after launch)
+[07May2025 07:35:17.011] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07May2025 07:35:17.012] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[07May2025 07:35:17.141] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[07May2025 07:35:17.141] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[07May2025 07:35:20.590] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 4008 milliseconds
+[07May2025 07:35:21.190] [main/WARN] [mixin/]: Mixin sona.mixins.json:ItemStackMixin has multiple constructors, (Ljava/lang/Class;)V was selected
+
+[07May2025 07:35:22.008] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=1 on palladiumcore-common.mixins.json:LightningBoltMixin::handler$zzd000$tick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[07May2025 07:35:24.780] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[07May2025 07:35:25.386] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[07May2025 07:35:26.081] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[07May2025 07:35:26.430] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[07May2025 07:35:26.437] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[07May2025 07:35:26.482] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.11
+[07May2025 07:35:27.025] [modloading-worker-0/INFO] [pointblank/]: Loading mod pointblank
+[07May2025 07:35:27.531] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[07May2025 07:35:28.616] [modloading-worker-0/INFO] [chloride/Main]: Chloride is not intended to be on servers, loaded in inner mode
+[07May2025 07:35:29.171] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[07May2025 07:35:29.172] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[07May2025 07:35:30.206] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/TerribleServer/servidor_minecraft/config/yacl.json5'
+[07May2025 07:35:30.204] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[07May2025 07:35:33.334] [main/INFO] [Moonlight/]: Initialized block sets in 26ms
+[07May2025 07:35:34.101] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[07May2025 07:35:34.102] [main/INFO] [ModernFix/]: Instantiating Mojang DFU
+[07May2025 07:35:35.417] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.EvolvedInfected.Scamper
+[07May2025 07:35:35.420] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.EvolvedInfected.Busser from class com.Harbinger.Spore.Sentities.Organoids.Brauerei
+[07May2025 07:35:35.420] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[07May2025 07:35:35.962] [modloading-worker-0/INFO] [lostcities/]: Creating standard profiles into 'config/lostcities/profiles'
+[07May2025 07:35:35.989] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Loading config file...
+[07May2025 07:35:35.997] [modloading-worker-0/INFO] [net.antrolgaming.ags_daycounter.AgsDayCounterMod/]: [Day Counter] Config file successfuly loaded!
+[07May2025 07:35:36.007] [modloading-worker-0/INFO] [lostcities/]: Reading existing profiles from 'config/lostcities/profiles'
+[07May2025 07:35:36.034] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO FROM COMMON SETUP
+[07May2025 07:35:36.036] [modloading-worker-0/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: DIRT BLOCK >> minecraft:dirt
+[07May2025 07:35:36.132] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[07May2025 07:35:36.136] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[07May2025 07:35:36.151] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[07May2025 07:35:36.206] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 1, 0, 1, 21, 6, 1] ms
+[07May2025 07:35:36.241] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[07May2025 07:35:36.309] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[07May2025 07:35:36.309] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[07May2025 07:35:36.309] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[07May2025 07:35:36.309] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[07May2025 07:35:36.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[07May2025 07:35:36.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [warborn] Starting version check at https://raw.githubusercontent.com/Lothrazar/ForgeTemplate/trunk/1.20/update.json
+[07May2025 07:35:36.355] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [warborn] Found status: BETA Current: 2.3.3 Target: 0.0.1
+[07May2025 07:35:36.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[07May2025 07:35:36.383] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[07May2025 07:35:36.383] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[07May2025 07:35:36.383] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[07May2025 07:35:36.383] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[07May2025 07:35:36.383] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[07May2025 07:35:36.383] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[07May2025 07:35:36.384] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[07May2025 07:35:36.384] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[07May2025 07:35:36.419] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[07May2025 07:35:36.419] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[07May2025 07:35:36.420] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[07May2025 07:35:36.420] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[07May2025 07:35:36.420] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[07May2025 07:35:36.420] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[07May2025 07:35:36.421] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[07May2025 07:35:36.470] [main/INFO] [Moonlight/]: Initialized color sets in 41ms
+[07May2025 07:35:36.550] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[07May2025 07:35:36.551] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[07May2025 07:35:36.575] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[07May2025 07:35:36.576] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[07May2025 07:35:36.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.13
+[07May2025 07:35:36.832] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[07May2025 07:35:36.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.30 Target: null
+[07May2025 07:35:36.842] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[07May2025 07:35:36.897] [modloading-worker-0/INFO] [de.mennomax.astikorcarts.AstikorCarts/]: Automatic pull animal configuration:
+pull_animals = [
+    "minecraft:camel",
+    "minecraft:donkey",
+    "minecraft:horse",
+    "minecraft:mule",
+    "minecraft:skeleton_horse",
+    "minecraft:zombie_horse",
+    "minecraft:player"
+  ]
+[07May2025 07:35:36.910] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[07May2025 07:35:36.919] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[07May2025 07:35:36.921] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[07May2025 07:35:36.923] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.ferreusveritas.dynamictrees.compat.waila.WailaCompat
+[07May2025 07:35:36.924] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[07May2025 07:35:36.924] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[07May2025 07:35:36.937] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[07May2025 07:35:36.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[07May2025 07:35:36.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[07May2025 07:35:36.944] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[07May2025 07:35:37.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.11 Target: null
+[07May2025 07:35:37.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[07May2025 07:35:37.740] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[07May2025 07:35:38.076] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[07May2025 07:35:38.077] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTrees.json?raw=true
+[07May2025 07:35:38.259] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23291!/assets/.mcassetsroot' uses unexpected schema
+[07May2025 07:35:38.260] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23291!/data/.mcassetsroot' uses unexpected schema
+[07May2025 07:35:38.299] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictrees] Found status: BETA Current: 1.20.1-1.4.2 Target: null
+[07May2025 07:35:38.300] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictreesplus] Starting version check at https://github.com/DynamicTreesTeam/DynamicTreesVersionInfo/blob/master/DynamicTreesPlus.json?raw=true
+[07May2025 07:35:38.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamictreesplus] Found status: BETA Current: 1.20.1-1.2.0-BETA3 Target: null
+[07May2025 07:35:38.556] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
+[07May2025 07:35:38.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
+[07May2025 07:35:38.687] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Starting version check at https://updates.blamejared.com/get?n=badmobs&gv=1.20.1
+[07May2025 07:35:39.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [badmobs] Found status: BETA Current: 19.0.4 Target: 19.0.4
+[07May2025 07:35:39.092] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[07May2025 07:35:39.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[07May2025 07:35:39.279] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[07May2025 07:35:39.289] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.82 Target: null
+[07May2025 07:35:39.289] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[07May2025 07:35:39.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[07May2025 07:35:44.740] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 82 ms
+[07May2025 07:35:44.763] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 22 ms
+[07May2025 07:35:48.434] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:tipped_spikes_blacklist as it is missing following references: minecraft:oozing (from supplementaries-1.20-3.1.30.jar), 
+	minecraft:infested (from supplementaries-1.20-3.1.30.jar)
+[07May2025 07:35:48.588] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:armors/chestplates as it is missing following references: warborn:nato_ukr_backpack (from warborn-1.20.1-2.3.3.jar), 
+	warborn:nato_mg_backpack (from warborn-1.20.1-2.3.3.jar)
+[07May2025 07:35:48.591] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:armors as it is missing following references: #forge:armors/chestplates (from forge-1.20.1-47.3.7-universal.jar)
+[07May2025 07:35:48.595] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:crops as it is missing following references: #forge:crops/bellpepper (from veggiesdelight-1.7.jar)
+[07May2025 07:35:49.474] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:zombiekit:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:35:49.668] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:farmersrespite:blocks/kettle
+com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:35:49.686] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:parcool:grant_parcool_guide
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:35:49.764] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:minecraft:entities/bat}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[07May2025 07:35:49.799] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.805] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.810] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.810] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.820] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.824] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.825] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vintagedelight:cooking/shakshouka: com.google.gson.JsonSyntaxException: Unknown item 'vintagedelight:ghost_pepper'
+[07May2025 07:35:49.826] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/wild_bellpepper: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[07May2025 07:35:49.832] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.839] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.839] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.841] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[07May2025 07:35:49.843] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
+[07May2025 07:35:49.843] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe culturaldelight:eggplant_burger: com.google.gson.JsonSyntaxException: Unknown item 'culturaldelights:eggplant_burger'
+[07May2025 07:35:49.853] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.874] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.881] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.882] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.886] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
+[07May2025 07:35:49.890] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.892] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.902] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.903] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:pouring/water_cup: com.google.gson.JsonSyntaxException: Unknown item 'miners_delight:copper_cup'
+[07May2025 07:35:49.907] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.927] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.931] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[07May2025 07:35:49.931] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mcore:steel_sheet_pressing as it's serializer returned null
+[07May2025 07:35:49.934] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.939] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:steak_fajitas: com.google.gson.JsonSyntaxException: Unknown item 'veggiesdelight:steak_fajitas'
+[07May2025 07:35:49.940] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.942] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe corndelight:chicken_fajitas_wrap: com.google.gson.JsonSyntaxException: Unknown item 'corn_delight:tortilla'
+[07May2025 07:35:49.942] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vintagedelight:uncooked_mhadjeb: com.google.gson.JsonSyntaxException: Unknown item 'vintagedelight:ghost_pepper'
+[07May2025 07:35:49.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.947] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.965] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.966] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.972] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe parcool:parcool_guide: com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+[07May2025 07:35:49.974] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe moredelight:garlic_bread: com.google.gson.JsonSyntaxException: Unknown item 'moredelight:toast'
+[07May2025 07:35:49.974] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.982] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.983] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.983] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.986] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.988] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.991] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.992] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.993] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/wild_sweet_potatoes: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[07May2025 07:35:49.994] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:49.997] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/bellpepper: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[07May2025 07:35:49.997] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.998] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:49.999] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.000] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.004] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dustydecorations:gold_pile_reverse_recipe: com.google.gson.JsonSyntaxException: Unknown item 'dustydecorations:deleted_mod_element'
+[07May2025 07:35:50.007] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe culturaldelight:avocado_toast: com.google.gson.JsonSyntaxException: Unknown item 'culturaldelights:avocado_toast'
+[07May2025 07:35:50.009] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[07May2025 07:35:50.010] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/saltpeter: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[07May2025 07:35:50.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/wild_cauliflowers: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[07May2025 07:35:50.017] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.017] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dustydecorations:bucket_o_coins_recipe: com.google.gson.JsonSyntaxException: Unknown item 'dustydecorations:deleted_mod_element_bucket'
+[07May2025 07:35:50.020] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/cauliflower: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[07May2025 07:35:50.021] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.021] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.023] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/garlic: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[07May2025 07:35:50.024] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.025] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.029] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.034] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/sweet_potato: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[07May2025 07:35:50.035] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.040] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.041] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.042] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.042] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.043] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.046] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe mcore:titanium_sheet_pressing as it's serializer returned null
+[07May2025 07:35:50.050] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.053] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.060] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.061] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
+[07May2025 07:35:50.061] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.063] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
+[07May2025 07:35:50.065] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe moredelight:cooking/fish_and_chips: com.google.gson.JsonSyntaxException: Unknown item 'moredelight:diced_potatoes'
+[07May2025 07:35:50.065] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[07May2025 07:35:50.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dynamictrees:guide: com.google.gson.JsonSyntaxException: Missing conditions, expected to find a JsonArray
+[07May2025 07:35:50.074] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vintagedelight:vegan_pizza: com.google.gson.JsonSyntaxException: Unknown item 'vintagedelight:ghost_pepper'
+[07May2025 07:35:50.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[07May2025 07:35:50.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/wild_garlic: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[07May2025 07:35:50.085] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[07May2025 07:35:50.186] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement farmersrespite:main/stunt_tea_bush: Invalid criterion trigger: farmersrespite:stunt_tea_bush
+[07May2025 07:35:50.249] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2508 advancements
+[07May2025 07:35:50.253] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[07May2025 07:35:50.268] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[07May2025 07:35:50.275] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[07May2025 07:35:50.416] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[07May2025 07:35:50.643] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
+[07May2025 07:35:50.651] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
+[07May2025 07:35:50.665] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[07May2025 07:35:50.734] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[07May2025 07:35:50.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[07May2025 07:35:50.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[07May2025 07:35:50.983] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[07May2025 07:35:50.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[07May2025 07:35:51.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[07May2025 07:35:51.186] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[07May2025 07:35:51.271] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07May2025 07:35:51.271] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[07May2025 07:35:51.272] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07May2025 07:35:51.272] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[07May2025 07:35:51.376] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[07May2025 07:35:51.376] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[07May2025 07:35:51.376] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[07May2025 07:35:51.376] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[07May2025 07:35:51.377] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[07May2025 07:35:51.377] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[07May2025 07:35:51.377] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[07May2025 07:35:51.378] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[07May2025 07:35:51.378] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[07May2025 07:35:51.378] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[07May2025 07:35:51.380] [Server thread/INFO] [Framework/]: Loading server configs...
+[07May2025 07:35:51.423] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[07May2025 07:35:51.818] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[07May2025 07:35:51.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "MImundo"
+[07May2025 07:35:52.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[07May2025 07:35:54.120] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 07:35:54.121] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 07:35:54.121] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 07:35:54.121] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 07:35:54.348] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[07May2025 07:35:54.850] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 29%
+[07May2025 07:35:55.358] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
+[07May2025 07:35:55.653] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3305 ms
+[07May2025 07:35:55.653] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.366s)! For help, type "help"
+[07May2025 07:35:55.722] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[07May2025 07:35:55.724] [Server thread/INFO] [com.muhammedesadcomert.protectmobsfromdaylight.forge.ProtectMobsFromDayLight/]: HELLO from server starting
+[07May2025 07:35:55.922] [Server thread/WARN] [ModernFix/]: Dedicated server took 59.581 seconds to load
+[07May2025 07:35:56.619] [Server thread/INFO] [dev.corgitaco.enhancedcelestials.EnhancedCelestials/]: Possible lunar events for dimension "minecraft:overworld" are [enhancedcelestials:super_moon, enhancedcelestials:super_blood_moon, enhancedcelestials:super_blue_moon, enhancedcelestials:harvest_moon, enhancedcelestials:super_harvest_moon, enhancedcelestials:blue_moon, enhancedcelestials:blood_moon].
+[07May2025 07:35:58.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[07May2025 07:36:18.539] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jorgepwe[/127.230.120.36:54343] logged in with entity id 297 at (-8.5, 125.0, -8.5)
+[07May2025 07:36:18.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe joined the game
+[07May2025 07:36:18.996] [Server thread/INFO] [Jade/]: Syncing config to Jorgepwe (d5cb90a3-5321-3e9b-8658-6318f3bddd1a)
+[07May2025 07:36:19.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Welcome To Dusty Decorations!]
+[07May2025 07:36:20.044] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of d5cb90a3-5321-3e9b-8658-6318f3bddd1a was loaded
+[07May2025 07:37:11.511] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.8.69.171:52967] logged in with entity id 634 at (-21.69999998807907, 92.0, -13.41360680281649)
+[07May2025 07:37:11.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[07May2025 07:37:11.596] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[07May2025 07:37:11.916] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 560d7ed8-5a57-3792-966d-7f0718b3c689 was loaded
+[07May2025 07:37:26.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChupetinXD> q tal sientes el mouse
+[07May2025 07:37:34.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgepwe> bien
+[07May2025 07:38:37.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jorgepwe has made the advancement [Monster Hunter]
+[07May2025 07:38:54.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DestroyMarce7[/127.110.79.149:34789] logged in with entity id 1328 at (8.5, 83.0, 4.5)
+[07May2025 07:38:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 joined the game
+[07May2025 07:38:54.577] [Server thread/INFO] [Jade/]: Syncing config to DestroyMarce7 (417250f2-70ac-3f9e-ae2c-74c0ab6b2b83)
+[07May2025 07:38:54.797] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 417250f2-70ac-3f9e-ae2c-74c0ab6b2b83 was loaded
+[07May2025 07:39:04.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DestroyMarce7> todo bien nenas?
+[07May2025 07:39:14.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Meet the team]
+[07May2025 07:39:14.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [How is it fair if they can fly ?!]
+[07May2025 07:39:17.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DestroyMarce7> AAA
+[07May2025 07:39:25.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <DestroyMarce7> XD JAJAJAJAJA
+[07May2025 07:39:30.570] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 0,-18: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+	at mcjty.lostcities.worldgen.ChunkDriver.correct(ChunkDriver.java:281) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.ChunkDriver.add(ChunkDriver.java:322) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.actuallyGenerateStuff(Stuff.java:96) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.generateStuff(Stuff.java:36) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.doCityChunk(LostCityTerrainFeature.java:945) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.generate(LostCityTerrainFeature.java:296) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityFeature.m_142674_(LostCityFeature.java:62) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180) ~[?:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:711) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:39:30.574] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:30.574] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:30.574] [Worker-Main-3/INFO] [lostcities/]:     Building: building3
+[07May2025 07:39:30.574] [Worker-Main-3/INFO] [lostcities/]:         Floors: 10
+[07May2025 07:39:30.574] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:39:30.761] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -3,-18: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+	at mcjty.lostcities.worldgen.ChunkDriver.correct(ChunkDriver.java:281) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.ChunkDriver.add(ChunkDriver.java:322) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.actuallyGenerateStuff(Stuff.java:96) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.generateStuff(Stuff.java:36) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.doCityChunk(LostCityTerrainFeature.java:945) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.generate(LostCityTerrainFeature.java:296) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityFeature.m_142674_(LostCityFeature.java:62) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180) ~[?:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:711) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:39:30.766] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:30.769] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:30.770] [Worker-Main-1/INFO] [lostcities/]:     Building: building1
+[07May2025 07:39:30.771] [Worker-Main-1/INFO] [lostcities/]:         Floors: 11
+[07May2025 07:39:30.772] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:31.231] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -5,-18: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+	at mcjty.lostcities.worldgen.ChunkDriver.correct(ChunkDriver.java:281) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.ChunkDriver.add(ChunkDriver.java:322) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.actuallyGenerateStuff(Stuff.java:96) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.generateStuff(Stuff.java:36) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.doCityChunk(LostCityTerrainFeature.java:945) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.generate(LostCityTerrainFeature.java:296) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityFeature.m_142674_(LostCityFeature.java:62) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180) ~[?:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:711) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:39:31.233] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:31.234] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:31.234] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: center
+[07May2025 07:39:31.234] [Worker-Main-1/INFO] [lostcities/]:     Building: center11
+[07May2025 07:39:31.235] [Worker-Main-1/INFO] [lostcities/]:         Floors: 11
+[07May2025 07:39:31.235] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:31.271] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -6,-18: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+	at mcjty.lostcities.worldgen.ChunkDriver.correct(ChunkDriver.java:281) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.ChunkDriver.add(ChunkDriver.java:322) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.actuallyGenerateStuff(Stuff.java:96) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.generateStuff(Stuff.java:36) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.doCityChunk(LostCityTerrainFeature.java:945) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.generate(LostCityTerrainFeature.java:296) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityFeature.m_142674_(LostCityFeature.java:62) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180) ~[?:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:711) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:39:31.276] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:31.277] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:31.278] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: center
+[07May2025 07:39:31.278] [Worker-Main-3/INFO] [lostcities/]:     Building: center01
+[07May2025 07:39:31.278] [Worker-Main-3/INFO] [lostcities/]:         Floors: 11
+[07May2025 07:39:31.279] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:31.335] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -7,-18: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+	at mcjty.lostcities.worldgen.ChunkDriver.correct(ChunkDriver.java:281) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.ChunkDriver.add(ChunkDriver.java:322) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.actuallyGenerateStuff(Stuff.java:96) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.generateStuff(Stuff.java:36) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.doCityChunk(LostCityTerrainFeature.java:945) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.generate(LostCityTerrainFeature.java:296) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityFeature.m_142674_(LostCityFeature.java:62) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180) ~[?:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:711) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:39:31.337] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:31.337] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[07May2025 07:39:31.337] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: huge1
+[07May2025 07:39:31.338] [Worker-Main-3/INFO] [lostcities/]:     Building: building4
+[07May2025 07:39:31.338] [Worker-Main-3/INFO] [lostcities/]:         Floors: 15
+[07May2025 07:39:31.338] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:31.410] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -8,-18: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+	at mcjty.lostcities.worldgen.ChunkDriver.correct(ChunkDriver.java:281) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.ChunkDriver.add(ChunkDriver.java:322) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.actuallyGenerateStuff(Stuff.java:96) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.generateStuff(Stuff.java:36) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.doCityChunk(LostCityTerrainFeature.java:945) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.generate(LostCityTerrainFeature.java:296) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityFeature.m_142674_(LostCityFeature.java:62) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180) ~[?:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:711) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:39:31.412] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:31.413] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[07May2025 07:39:31.413] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: huge1
+[07May2025 07:39:31.413] [Worker-Main-3/INFO] [lostcities/]:     Building: building4
+[07May2025 07:39:31.413] [Worker-Main-3/INFO] [lostcities/]:         Floors: 15
+[07May2025 07:39:31.413] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:31.896] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -9,-18: null
+java.lang.NullPointerException: null
+[07May2025 07:39:31.897] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:31.897] [Worker-Main-3/INFO] [lostcities/]:     Level: 1
+[07May2025 07:39:31.897] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: huge1
+[07May2025 07:39:31.897] [Worker-Main-3/INFO] [lostcities/]:     Building: building4
+[07May2025 07:39:31.898] [Worker-Main-3/INFO] [lostcities/]:         Floors: 15
+[07May2025 07:39:31.898] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:32.033] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -10,-18: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+	at mcjty.lostcities.worldgen.ChunkDriver.correct(ChunkDriver.java:281) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.ChunkDriver.add(ChunkDriver.java:322) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.actuallyGenerateStuff(Stuff.java:96) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.generateStuff(Stuff.java:36) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.doCityChunk(LostCityTerrainFeature.java:945) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.generate(LostCityTerrainFeature.java:296) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityFeature.m_142674_(LostCityFeature.java:62) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180) ~[?:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:711) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:39:32.037] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:32.037] [Worker-Main-2/INFO] [lostcities/]:     Level: 3
+[07May2025 07:39:32.037] [Worker-Main-2/INFO] [lostcities/]:     Building: building6
+[07May2025 07:39:32.037] [Worker-Main-2/INFO] [lostcities/]:         Floors: 5
+[07May2025 07:39:32.038] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 4
+[07May2025 07:39:32.306] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 lost connection: Disconnected
+[07May2025 07:39:32.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 left the game
+[07May2025 07:39:32.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was eaten alive by Phayres
+[07May2025 07:39:32.321] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 417250f2-70ac-3f9e-ae2c-74c0ab6b2b83 was unloaded
+[07May2025 07:39:32.939] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -14,-18: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+java.lang.NullPointerException: Cannot invoke "net.minecraft.world.level.block.state.BlockState.m_60734_()" because "state" is null
+	at mcjty.lostcities.worldgen.ChunkDriver.correct(ChunkDriver.java:281) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.ChunkDriver.add(ChunkDriver.java:322) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.actuallyGenerateStuff(Stuff.java:96) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.gen.Stuff.generateStuff(Stuff.java:36) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.doCityChunk(LostCityTerrainFeature.java:945) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityTerrainFeature.generate(LostCityTerrainFeature.java:296) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at mcjty.lostcities.worldgen.LostCityFeature.m_142674_(LostCityFeature.java:62) ~[lostcities-1.20-7.3.6.jar%23251!/:1.20-7.3.6]
+	at net.minecraft.world.level.levelgen.feature.Feature.m_225028_(Feature.java:155) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.feature.ConfiguredFeature.m_224953_(ConfiguredFeature.java:28) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226362_(PlacedFeature.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.IntPipeline$1$1.accept(IntPipeline.java:180) ~[?:?]
+	at java.util.stream.Streams$RangeIntSpliterator.forEachRemaining(Streams.java:104) ~[?:?]
+	at java.util.Spliterator$OfInt.forEachRemaining(Spliterator.java:711) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:276) ~[?:?]
+	at java.util.stream.Streams$StreamBuilderImpl.forEachRemaining(Streams.java:411) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226368_(PlacedFeature.java:53) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.levelgen.placement.PlacedFeature.m_226377_(PlacedFeature.java:42) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_213609_(ChunkGenerator.java:357) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_279978_(ChunkStatus.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus$SimpleGenerationTask.m_214024_(ChunkStatus.java:309) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[07May2025 07:39:32.941] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:32.941] [Worker-Main-1/INFO] [lostcities/]:     Level: 4
+[07May2025 07:39:32.942] [Worker-Main-1/INFO] [lostcities/]:     Building: building3
+[07May2025 07:39:32.942] [Worker-Main-1/INFO] [lostcities/]:         Floors: 12
+[07May2025 07:39:32.942] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:34.253] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -6,-19: null
+java.lang.NullPointerException: null
+[07May2025 07:39:34.254] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:34.254] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:34.254] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: center
+[07May2025 07:39:34.254] [Worker-Main-3/INFO] [lostcities/]:     Building: center00
+[07May2025 07:39:34.254] [Worker-Main-3/INFO] [lostcities/]:         Floors: 11
+[07May2025 07:39:34.255] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:34.286] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -4,-19: null
+java.lang.NullPointerException: null
+[07May2025 07:39:34.291] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:34.291] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:34.291] [Worker-Main-2/INFO] [lostcities/]:     Building: building7
+[07May2025 07:39:34.291] [Worker-Main-2/INFO] [lostcities/]:         Floors: 7
+[07May2025 07:39:34.291] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:39:34.319] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -5,-19: null
+java.lang.NullPointerException: null
+[07May2025 07:39:34.320] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:34.320] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:34.321] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: center
+[07May2025 07:39:34.321] [Worker-Main-2/INFO] [lostcities/]:     Building: center10
+[07May2025 07:39:34.321] [Worker-Main-2/INFO] [lostcities/]:         Floors: 11
+[07May2025 07:39:34.321] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:34.343] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -3,-19: null
+java.lang.NullPointerException: null
+[07May2025 07:39:34.343] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:34.343] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:34.343] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi2
+[07May2025 07:39:34.343] [Worker-Main-3/INFO] [lostcities/]:     Building: building2
+[07May2025 07:39:34.343] [Worker-Main-3/INFO] [lostcities/]:         Floors: 5
+[07May2025 07:39:34.343] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:39:34.376] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -7,-19: null
+java.lang.NullPointerException: null
+[07May2025 07:39:34.378] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:34.378] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:34.378] [Worker-Main-1/INFO] [lostcities/]:     Building: building8
+[07May2025 07:39:34.379] [Worker-Main-1/INFO] [lostcities/]:         Floors: 5
+[07May2025 07:39:34.379] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 2
+[07May2025 07:39:34.404] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -2,-19: null
+java.lang.NullPointerException: null
+[07May2025 07:39:34.404] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:34.405] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:34.405] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: multi2
+[07May2025 07:39:34.405] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[07May2025 07:39:34.406] [Worker-Main-1/INFO] [lostcities/]:         Floors: 5
+[07May2025 07:39:34.406] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:39:34.421] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -8,-19: null
+java.lang.NullPointerException: null
+[07May2025 07:39:34.421] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:34.422] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:34.422] [Worker-Main-1/INFO] [lostcities/]:     Building: building7
+[07May2025 07:39:34.422] [Worker-Main-1/INFO] [lostcities/]:         Floors: 10
+[07May2025 07:39:34.422] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:39:34.554] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -1,-19: null
+java.lang.NullPointerException: null
+[07May2025 07:39:34.555] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:34.555] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:34.556] [Worker-Main-1/INFO] [lostcities/]:     Building: building2
+[07May2025 07:39:34.556] [Worker-Main-1/INFO] [lostcities/]:         Floors: 11
+[07May2025 07:39:34.556] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:37.326] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 13,-15: null
+java.lang.NullPointerException: null
+[07May2025 07:39:37.327] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:37.327] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:37.327] [Worker-Main-3/INFO] [lostcities/]:     Building: building2
+[07May2025 07:39:37.327] [Worker-Main-3/INFO] [lostcities/]:         Floors: 10
+[07May2025 07:39:37.327] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:38.970] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -6,-20: null
+java.lang.NullPointerException: null
+[07May2025 07:39:38.971] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:38.971] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:38.971] [Worker-Main-2/INFO] [lostcities/]:     Building: building8
+[07May2025 07:39:38.971] [Worker-Main-2/INFO] [lostcities/]:         Floors: 9
+[07May2025 07:39:38.971] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 2
+[07May2025 07:39:39.027] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk -3,-20: null
+java.lang.NullPointerException: null
+[07May2025 07:39:39.028] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:39.028] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:39.028] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: multi2
+[07May2025 07:39:39.028] [Worker-Main-2/INFO] [lostcities/]:     Building: building2
+[07May2025 07:39:39.028] [Worker-Main-2/INFO] [lostcities/]:         Floors: 5
+[07May2025 07:39:39.028] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:39:39.078] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -2,-20: null
+java.lang.NullPointerException: null
+[07May2025 07:39:39.078] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:39.078] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:39.079] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: multi2
+[07May2025 07:39:39.079] [Worker-Main-3/INFO] [lostcities/]:     Building: building2
+[07May2025 07:39:39.079] [Worker-Main-3/INFO] [lostcities/]:         Floors: 5
+[07May2025 07:39:39.079] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:39:42.416] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk 14,-12: null
+java.lang.NullPointerException: null
+[07May2025 07:39:42.418] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:42.420] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:42.420] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: shopping_open
+[07May2025 07:39:42.421] [Worker-Main-2/INFO] [lostcities/]:     Building: shopping_open01
+[07May2025 07:39:42.421] [Worker-Main-2/INFO] [lostcities/]:         Floors: 6
+[07May2025 07:39:42.421] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:42.462] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 14,-13: null
+java.lang.NullPointerException: null
+[07May2025 07:39:42.463] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:42.463] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:42.463] [Worker-Main-3/INFO] [lostcities/]:     Multibuilding: shopping_open
+[07May2025 07:39:42.463] [Worker-Main-3/INFO] [lostcities/]:     Building: shopping_open00
+[07May2025 07:39:42.464] [Worker-Main-3/INFO] [lostcities/]:         Floors: 6
+[07May2025 07:39:42.465] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:45.028] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk 14,-16: null
+java.lang.NullPointerException: null
+[07May2025 07:39:45.028] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:45.028] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:45.029] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: library
+[07May2025 07:39:45.029] [Worker-Main-1/INFO] [lostcities/]:     Building: library01
+[07May2025 07:39:45.029] [Worker-Main-1/INFO] [lostcities/]:         Floors: 12
+[07May2025 07:39:45.030] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:45.372] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk 14,-17: null
+java.lang.NullPointerException: null
+[07May2025 07:39:45.375] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:45.375] [Worker-Main-2/INFO] [lostcities/]:     Level: 0
+[07May2025 07:39:45.375] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: library
+[07May2025 07:39:45.375] [Worker-Main-2/INFO] [lostcities/]:     Building: library00
+[07May2025 07:39:45.375] [Worker-Main-2/INFO] [lostcities/]:         Floors: 12
+[07May2025 07:39:45.375] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:39:46.316] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk 14,7: null
+java.lang.NullPointerException: null
+[07May2025 07:39:46.316] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[07May2025 07:39:46.316] [Worker-Main-2/INFO] [lostcities/]:     Level: 2
+[07May2025 07:39:46.317] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: multi4
+[07May2025 07:39:46.317] [Worker-Main-2/INFO] [lostcities/]:     Building: building4
+[07May2025 07:39:46.317] [Worker-Main-2/INFO] [lostcities/]:         Floors: 11
+[07May2025 07:39:46.317] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:39:47.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgepwe> gordo wbon
+[07May2025 07:39:55.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgepwe> oe me slae
+[07May2025 07:40:16.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgepwe> there was an error generating a chunk. see a long for details
+[07May2025 07:41:30.628] [Worker-Main-2/ERROR] [lostcities/]: Error generating chunk 14,8: null
+java.lang.NullPointerException: null
+[07May2025 07:41:30.629] [Worker-Main-2/INFO] [lostcities/]: IsCity: true
+[07May2025 07:41:30.629] [Worker-Main-2/INFO] [lostcities/]:     Level: 2
+[07May2025 07:41:30.629] [Worker-Main-2/INFO] [lostcities/]:     Multibuilding: multi4
+[07May2025 07:41:30.629] [Worker-Main-2/INFO] [lostcities/]:     Building: building4
+[07May2025 07:41:30.629] [Worker-Main-2/INFO] [lostcities/]:         Floors: 11
+[07May2025 07:41:30.629] [Worker-Main-2/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:41:34.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChupetinXD> nidea on
+[07May2025 07:41:57.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChupetinXD> de aquí reviso los mods q añaden estructuras y los biomas tmb
+[07May2025 07:42:15.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChupetinXD> de paso chequeo pq mrda hay una barra de sed si no metí ningún mod de sed
+[07May2025 07:42:26.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgepwe> creo que es
+[07May2025 07:42:31.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgepwe> sangre
+[07May2025 07:42:41.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChupetinXD> tu eres muy sabio
+[07May2025 07:43:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChupetinXD> ya pero de aquí veo pq sale ese error
+[07May2025 07:43:11.318] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -7,-21: null
+java.lang.NullPointerException: null
+[07May2025 07:43:11.320] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:43:11.321] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[07May2025 07:43:11.321] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping_open
+[07May2025 07:43:11.322] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping_open01
+[07May2025 07:43:11.322] [Worker-Main-1/INFO] [lostcities/]:         Floors: 6
+[07May2025 07:43:11.325] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:43:11.840] [Worker-Main-1/ERROR] [lostcities/]: Error generating chunk -6,-21: null
+java.lang.NullPointerException: null
+[07May2025 07:43:11.840] [Worker-Main-1/INFO] [lostcities/]: IsCity: true
+[07May2025 07:43:11.840] [Worker-Main-1/INFO] [lostcities/]:     Level: 0
+[07May2025 07:43:11.841] [Worker-Main-1/INFO] [lostcities/]:     Multibuilding: shopping_open
+[07May2025 07:43:11.841] [Worker-Main-1/INFO] [lostcities/]:     Building: shopping_open11
+[07May2025 07:43:11.841] [Worker-Main-1/INFO] [lostcities/]:         Floors: 6
+[07May2025 07:43:11.841] [Worker-Main-1/INFO] [lostcities/]:         Cellars: 0
+[07May2025 07:43:11.875] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk -4,-21: null
+java.lang.NullPointerException: null
+[07May2025 07:43:11.875] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:43:11.876] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[07May2025 07:43:11.876] [Worker-Main-3/INFO] [lostcities/]:     Building: building5
+[07May2025 07:43:11.876] [Worker-Main-3/INFO] [lostcities/]:         Floors: 9
+[07May2025 07:43:11.876] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 3
+[07May2025 07:43:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChupetinXD> tal vez sea por la versión del forge mno
+[07May2025 07:43:24.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgepwe> mano tienen ojos color bayron
+[07May2025 07:43:48.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ChupetinXD> tendré q usar versiones un poco más antiguas de los mods de biomas y de estructuras p
+[07May2025 07:43:58.100] [Worker-Main-3/ERROR] [lostcities/]: Error generating chunk 14,-20: null
+java.lang.NullPointerException: null
+[07May2025 07:43:58.101] [Worker-Main-3/INFO] [lostcities/]: IsCity: true
+[07May2025 07:43:58.101] [Worker-Main-3/INFO] [lostcities/]:     Level: 0
+[07May2025 07:43:58.101] [Worker-Main-3/INFO] [lostcities/]:     Building: building7
+[07May2025 07:43:58.101] [Worker-Main-3/INFO] [lostcities/]:         Floors: 8
+[07May2025 07:43:58.101] [Worker-Main-3/INFO] [lostcities/]:         Cellars: 1
+[07May2025 07:44:22.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgepwe> tienen la mirada de los mil parchadore
+[07May2025 07:44:46.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Jorgepwe> como le vas a poner duracion a la comida

@@ -1,0 +1,51 @@
+{
+  "dustydecorations:welcome_to_dusty_decor": {
+    "criteria": {
+      "welcome_to_dusty_decor_0": "2025-05-07 01:01:16 -0500"
+    },
+    "done": true
+  },
+  "zombiekit:zombie_kit": {
+    "criteria": {
+      "zombie_kit": "2025-05-07 01:01:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-07 01:01:17 -0500"
+    },
+    "done": true
+  },
+  "zombiekit:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-05-07 01:01:17 -0500"
+    },
+    "done": true
+  },
+  "ags_day_counter:day_counter_root_advancement": {
+    "criteria": {
+      "day_counter_root_advancement_0": "2025-05-07 01:01:17 -0500"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2025-05-07 01:01:17 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "redwood_forest": "2025-05-07 01:04:37 -0500"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "redwood_forest": "2025-05-07 01:04:37 -0500"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
