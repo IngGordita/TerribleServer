@@ -583,3 +583,51 @@ com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
 [16May2025 22:37:44.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/8101, l='ServerLevel[Mundo nuevo]', x=275.47, y=-20.00, z=-740.04] died: Toxic Slime was killed
 [16May2025 22:38:09.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/8287, l='ServerLevel[Mundo nuevo]', x=261.74, y=-20.00, z=-794.26] died: Toxic Slime was killed
 [16May2025 22:38:28.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AronTR> creo que es un boss
+[16May2025 22:38:52.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Luisillo> guarda las coords entocnes beibi
+[16May2025 22:39:53.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9463, l='ServerLevel[Mundo nuevo]', x=287.83, y=-20.00, z=-710.23] died: Toxic Slime was killed
+[16May2025 22:40:14.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> Xd
+[16May2025 22:40:25.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10018, l='ServerLevel[Mundo nuevo]', x=156.22, y=-20.00, z=-836.74] died: Toxic Slime was killed
+[16May2025 22:40:29.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10069, l='ServerLevel[Mundo nuevo]', x=280.43, y=-20.00, z=-713.24] died: Toxic Slime was killed
+[16May2025 22:40:41.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/10227, l='ServerLevel[Mundo nuevo]', x=298.74, y=-20.00, z=-749.74] died: Toxic Slime was killed
+[16May2025 22:41:47.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Pocket Edition Alpha]
+[16May2025 22:43:08.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/11248, l='ServerLevel[Mundo nuevo]', x=186.74, y=-20.00, z=-827.74] died: Toxic Slime was killed
+[16May2025 22:43:31.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.115.103.227:37249] logged in with entity id 12365 at (1134.1720105330116, 173.15887408721733, -2792.737574082449)
+[16May2025 22:43:31.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[16May2025 22:43:31.131] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[16May2025 22:43:32.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/11408, l='ServerLevel[Mundo nuevo]', x=305.74, y=-20.00, z=-887.02] died: Toxic Slime was killed
+[16May2025 22:43:33.438] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
+[16May2025 22:43:33.439] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
+[16May2025 22:44:05.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/11614, l='ServerLevel[Mundo nuevo]', x=329.26, y=-20.00, z=-795.26] died: Toxic Slime was killed
+[16May2025 22:44:50.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Hot Stuff]
+[16May2025 22:45:19.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/12014, l='ServerLevel[Mundo nuevo]', x=304.26, y=-20.00, z=-750.74] died: Toxic Slime was killed
+[16May2025 22:45:20.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/12027, l='ServerLevel[Mundo nuevo]', x=203.79, y=-20.00, z=-784.32] died: Toxic Slime was killed
+[16May2025 22:45:25.032] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/12052, l='ServerLevel[Mundo nuevo]', x=199.65, y=-20.00, z=-747.60] died: Toxic Slime was killed
+[16May2025 22:45:41.084] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/12220, l='ServerLevel[Mundo nuevo]', x=196.26, y=-20.00, z=-809.74] died: Toxic Slime was killed
+[16May2025 22:45:45.005] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/12254, l='ServerLevel[Mundo nuevo]', x=330.74, y=-20.00, z=-751.74] died: Toxic Slime was killed
+[16May2025 22:45:58.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/12348, l='ServerLevel[Mundo nuevo]', x=256.74, y=-20.00, z=-784.36] died: Toxic Slime was killed
+[16May2025 22:46:36.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/12987, l='ServerLevel[Mundo nuevo]', x=196.26, y=-20.00, z=-799.26] died: Toxic Slime was killed
+[16May2025 22:46:36.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/12995, l='ServerLevel[Mundo nuevo]', x=278.26, y=-20.00, z=-797.69] died: Toxic Slime was killed
+[16May2025 22:47:25.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/13437, l='ServerLevel[Mundo nuevo]', x=233.26, y=-20.00, z=-802.74] died: Toxic Slime was killed
+[16May2025 22:47:28.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/13463, l='ServerLevel[Mundo nuevo]', x=182.83, y=-20.00, z=-860.65] died: Toxic Slime was killed
+[16May2025 22:47:28.152] [Worker-Main-15/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[16May2025 22:47:40.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/13650, l='ServerLevel[Mundo nuevo]', x=232.46, y=-20.00, z=-739.59] died: Toxic Slime was killed
+[16May2025 22:47:50.553] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14875, l='ServerLevel[Mundo nuevo]', x=232.51, y=32.89, z=-813.71] died: Toxic Slime was slain by AronTR
+[16May2025 22:48:20.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/15392, l='ServerLevel[Mundo nuevo]', x=228.26, y=33.50, z=-821.01] died: Toxic Slime was slain by AronTR
+[16May2025 22:48:35.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/14862, l='ServerLevel[Mundo nuevo]', x=227.18, y=-20.00, z=-827.26] died: Toxic Slime was killed
+[16May2025 22:49:24.314] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luisillo lost connection: Disconnected
+[16May2025 22:49:24.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luisillo left the game
+[16May2025 22:49:24.319] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Luisillo
+[16May2025 22:50:26.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/17030, l='ServerLevel[Mundo nuevo]', x=245.72, y=-20.00, z=-918.34] died: Toxic Slime was killed
+[16May2025 22:50:32.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Those Were the Days]
+[16May2025 22:50:37.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/17237, l='ServerLevel[Mundo nuevo]', x=255.71, y=-20.00, z=-984.98] died: Toxic Slime was killed
+[16May2025 22:51:33.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Piglin Brute
+[16May2025 22:51:33.302] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[16May2025 22:53:27.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/19024, l='ServerLevel[Mundo nuevo]', x=354.26, y=-20.00, z=-952.26] died: Toxic Slime was killed
+[16May2025 22:53:59.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20074, l='ServerLevel[Mundo nuevo]', x=335.26, y=-20.00, z=-1007.26] died: Toxic Slime was killed
+[16May2025 22:53:59.009] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/20138, l='ServerLevel[Mundo nuevo]', x=361.51, y=-20.00, z=-950.45] died: Toxic Slime was killed
+[16May2025 22:54:09.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Piglin
+[16May2025 22:54:09.594] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[16May2025 22:54:57.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [War Pigs]
+[16May2025 22:55:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Hidden in the Depths]
+[16May2025 22:57:59.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/21202, l='ServerLevel[Mundo nuevo]', x=324.74, y=-20.00, z=-1036.37] died: Toxic Slime was killed
+[16May2025 22:58:27.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/21411, l='ServerLevel[Mundo nuevo]', x=396.29, y=-20.00, z=-1040.07] died: Toxic Slime was killed

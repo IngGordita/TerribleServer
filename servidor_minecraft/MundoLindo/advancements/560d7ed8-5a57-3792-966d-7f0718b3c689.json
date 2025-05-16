@@ -403,6 +403,7 @@
       "minecraft:savanna_plateau": "2025-05-15 18:27:05 +0000",
       "minecraft:beach": "2025-05-14 01:52:38 +0000",
       "minecraft:stony_peaks": "2025-05-15 18:28:02 +0000",
+      "minecraft:dark_forest": "2025-05-16 22:47:15 +0000",
       "minecraft:sparse_jungle": "2025-05-14 01:44:22 +0000",
       "minecraft:lukewarm_ocean": "2025-05-14 02:00:27 +0000",
       "minecraft:river": "2025-05-14 01:43:48 +0000",
@@ -5672,112 +5673,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-16 21:32:49 +0000",
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 21:32:43 +0000"
-    },
-    "done": false
-  },
-  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
-    "criteria": {
-      "has_item": "2025-05-16 21:14:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-16 21:14:17 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-05-16 21:14:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-05-16 21:14:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-05-16 21:14:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-05-16 21:14:31 +0000"
+      "has_azure_bluet": "2025-05-16 20:57:50 +0000"
     },
     "done": true
   },
@@ -5787,21 +5685,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "incendium:toxic_heap/root": {
     "criteria": {
-      "has_azure_bluet": "2025-05-16 20:57:50 +0000"
+      "requirement": "2025-05-16 21:14:03 +0000"
     },
     "done": true
   },
-  "incendium:toxic_heap/slime_poison": {
+  "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "poison": "2025-05-16 21:14:19 +0000"
+      "has_slime_block": "2025-05-16 21:14:08 +0000"
     },
     "done": true
   },
-  "spartanweaponry:longbow": {
+  "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
-      "has_longbow": "2025-05-16 21:17:57 +0000"
+      "has_basalt": "2025-05-16 21:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-16 21:14:17 +0000"
     },
     "done": true
   },
@@ -5811,11 +5715,107 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-05-16 21:14:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
+    "criteria": {
+      "has_item": "2025-05-16 21:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-16 21:14:31 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
     "criteria": {
       "has_item": "2025-05-16 21:14:31 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-05-16 21:17:57 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 22:54:29 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
