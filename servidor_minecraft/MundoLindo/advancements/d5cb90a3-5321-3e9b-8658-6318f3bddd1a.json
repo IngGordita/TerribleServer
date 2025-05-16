@@ -390,6 +390,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-16 03:16:58 +0000",
+      "minecraft:mushroom_fields": "2025-05-16 03:45:11 +0000",
       "minecraft:taiga": "2025-05-15 19:17:22 +0000",
       "minecraft:cherry_grove": "2025-05-16 03:17:38 +0000",
       "minecraft:sunflower_plains": "2025-05-16 03:17:47 +0000",
@@ -2766,6 +2767,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-16 03:34:01 +0000",
       "minecraft:skeleton": "2025-05-14 06:50:32 +0000",
       "minecraft:spider": "2025-05-14 06:57:38 +0000",
       "minecraft:creeper": "2025-05-14 06:53:10 +0000",
@@ -5057,15 +5059,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "has_item": "2025-05-16 03:13:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-16 03:22:00 +0000"
+      "coded_trigger": "2025-05-16 02:50:35 +0000"
     },
     "done": true
   },
@@ -5075,45 +5071,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_bronze_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-16 03:30:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_helmet": {
-    "criteria": {
-      "has_item": "2025-05-16 03:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-05-16 03:25:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-05-16 03:30:09 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:world/ancient_tools": {
-    "criteria": {
-      "swasher": "2025-05-16 03:25:25 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/combat/armor_red_leggings": {
     "criteria": {
       "has_item": "2025-05-16 02:52:33 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+  "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
-      "has_sea_serpent_scales_bronze": "2025-05-16 03:30:11 +0000"
+      "has_item": "2025-05-16 02:52:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-05-16 02:52:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 02:52:33 +0000"
     },
     "done": true
   },
@@ -5123,9 +5101,76 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
     "criteria": {
-      "coded_trigger": "2025-05-16 02:50:35 +0000"
+      "has_gunpowder": "2025-05-16 03:01:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-05-16 03:12:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-05-16 03:13:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-16 03:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-16 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-16 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-16 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-16 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ancient_tools": {
+    "criteria": {
+      "swasher": "2025-05-16 03:25:25 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2025-05-16 03:25:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "cinderslime": "2025-05-16 03:25:25 +0000",
+      "iron": "2025-05-16 03:25:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-16 03:25:31 +0000"
     },
     "done": true
   },
@@ -5147,82 +5192,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragonbone_flaming_sword": {
-    "criteria": {
-      "sword": "2025-05-16 03:12:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-05-16 03:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-16 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-05-16 03:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-16 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_helmet": {
-    "criteria": {
-      "has_item": "2025-05-16 02:52:33 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/explosive_barrel": {
-    "criteria": {
-      "has_gunpowder": "2025-05-16 03:01:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
-    "criteria": {
-      "has_dragonscales_red": "2025-05-16 02:52:33 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/tide_trident": {
     "criteria": {
       "has_item": "2025-05-16 03:26:19 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_boots": {
-    "criteria": {
-      "has_item": "2025-05-16 02:52:33 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/tinker_tool": {
-    "criteria": {
-      "crafted_tool": "2025-05-16 03:25:25 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/material_master": {
-    "criteria": {
-      "cinderslime": "2025-05-16 03:25:25 +0000",
-      "iron": "2025-05-16 03:25:25 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-05-16 03:22:00 +0000"
     },
     "done": true
   },
@@ -5232,9 +5204,135 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-16 03:30:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-05-16 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 03:30:11 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
       "has_item": "2025-05-16 03:30:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 03:34:01 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2025-05-16 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-16 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-16 03:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-16 03:39:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 03:44:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-16 03:40:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2025-05-16 03:44:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 03:44:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-05-16 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 03:39:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 03:44:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 03:44:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 03:39:01 +0000"
     },
     "done": true
   },

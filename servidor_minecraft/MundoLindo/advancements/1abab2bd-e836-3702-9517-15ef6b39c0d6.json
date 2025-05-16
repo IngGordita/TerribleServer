@@ -5149,11 +5149,23 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "decorative_blocks:recipes/decorations/chandelier": {
     "criteria": {
-      "minecraft:basalt_deltas": "2025-05-16 03:20:35 +0000"
+      "has_torch": "2025-05-16 03:18:11 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-05-16 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-05-16 03:18:11 +0000"
+    },
+    "done": true
   },
   "incendium:root": {
     "criteria": {
@@ -5161,9 +5173,27 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "blaze_rod": "2025-05-16 03:25:35 +0000"
+      "entered_nether": "2025-05-16 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-16 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-05-16 03:20:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-16 03:20:35 +0000"
     },
     "done": true
   },
@@ -5179,51 +5209,15 @@
     },
     "done": false
   },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-05-16 03:20:35 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/chandelier": {
-    "criteria": {
-      "has_torch": "2025-05-16 03:18:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-05-16 03:20:30 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sconce": {
-    "criteria": {
-      "has_torch": "2025-05-16 03:18:11 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/misc/spawner_frame": {
-    "criteria": {
-      "has_spawner_fragment": "2025-05-16 03:29:06 +0000"
-    },
-    "done": true
-  },
   "incendium:volcanic_deltas/root": {
     "criteria": {
       "incendium:volcanic_deltas": "2025-05-16 03:22:11 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "entered_nether": "2025-05-16 03:20:30 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/soot": {
-    "criteria": {
-      "has_copper_block": "2025-05-16 03:25:37 +0000"
+      "blaze_rod": "2025-05-16 03:25:35 +0000"
     },
     "done": true
   },
@@ -5239,9 +5233,117 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+  "immersive_weathering:recipes/soot": {
     "criteria": {
-      "has_torch": "2025-05-16 03:18:11 +0000"
+      "has_copper_block": "2025-05-16 03:25:37 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-05-16 03:29:06 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/nether_bricks": {
+    "criteria": {
+      "has_copper_block": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-16 03:33:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 03:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-16 03:41:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 03:38:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-16 03:41:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-16 03:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-16 03:41:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-16 03:38:52 +0000"
     },
     "done": true
   },
