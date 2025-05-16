@@ -396,8 +396,10 @@
       "minecraft:sunflower_plains": "2025-05-15 19:49:04 +0000",
       "minecraft:cherry_grove": "2025-05-16 02:53:13 +0000",
       "minecraft:birch_forest": "2025-05-15 20:23:25 +0000",
+      "minecraft:windswept_hills": "2025-05-16 06:53:14 +0000",
       "minecraft:bamboo_jungle": "2025-05-14 03:50:01 +0000",
       "minecraft:beach": "2025-05-14 01:50:21 +0000",
+      "minecraft:dark_forest": "2025-05-16 06:49:38 +0000",
       "minecraft:sparse_jungle": "2025-05-14 03:45:02 +0000",
       "minecraft:lukewarm_ocean": "2025-05-14 01:41:28 +0000",
       "minecraft:river": "2025-05-14 01:50:29 +0000",
@@ -409,6 +411,7 @@
       "minecraft:jagged_peaks": "2025-05-15 20:24:52 +0000",
       "minecraft:cold_ocean": "2025-05-14 01:50:14 +0000",
       "minecraft:forest": "2025-05-14 01:35:02 +0000",
+      "minecraft:lush_caves": "2025-05-16 07:00:14 +0000",
       "minecraft:deep_cold_ocean": "2025-05-15 20:15:11 +0000",
       "minecraft:frozen_ocean": "2025-05-14 03:31:18 +0000",
       "minecraft:windswept_forest": "2025-05-14 03:44:00 +0000",
@@ -5618,9 +5621,100 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-05-16 07:06:24 +0000",
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
+    "criteria": {
+      "has_item": "2025-05-16 06:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-16 07:03:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
     "criteria": {
       "has_dragonscale_green": "2025-05-16 06:35:41 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
+    "criteria": {
+      "find_labyrinth": "2025-05-16 06:50:55 +0000"
     },
     "done": true
   },
@@ -5630,9 +5724,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-16 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-05-16 06:53:38 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-05-16 06:51:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2025-05-16 06:43:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-05-16 06:27:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-16 06:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-16 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-16 06:46:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-16 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-05-16 06:57:01 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-05-16 06:53:38 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-16 06:51:58 +0000"
     },
     "done": true
   },
