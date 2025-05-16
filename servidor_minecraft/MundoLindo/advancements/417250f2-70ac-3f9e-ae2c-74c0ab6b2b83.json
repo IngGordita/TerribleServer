@@ -5621,130 +5621,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-05-16 07:06:24 +0000",
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-16 07:05:55 +0000"
-    },
-    "done": false
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
-    "criteria": {
-      "has_item": "2025-05-16 06:43:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-05-16 07:03:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
-    "criteria": {
-      "has_dragonscale_green": "2025-05-16 06:35:41 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/find_labyrinth": {
-    "criteria": {
-      "find_labyrinth": "2025-05-16 06:50:55 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-05-16 06:25:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-05-16 07:03:49 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/lost_eye": {
-    "criteria": {
-      "lost_eye": "2025-05-16 06:53:38 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-05-16 06:51:56 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
-    "criteria": {
-      "has_item": "2025-05-16 06:43:42 +0000"
     },
     "done": true
   },
@@ -5754,15 +5633,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/decorations/copper_pile": {
+  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
     "criteria": {
-      "has_item": "2025-05-16 06:46:13 +0000"
+      "has_dragonscale_green": "2025-05-16 06:35:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
     "criteria": {
-      "has_rail": "2025-05-16 07:03:49 +0000"
+      "has_item": "2025-05-16 06:43:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2025-05-16 06:43:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-16 06:46:13 +0000"
     },
     "done": true
   },
@@ -5772,15 +5663,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+  "dungeonnowloading:story/labyrinth/find_labyrinth": {
     "criteria": {
-      "has_silver_nugget": "2025-05-16 07:03:49 +0000"
+      "find_labyrinth": "2025-05-16 06:50:55 +0000"
     },
     "done": true
   },
-  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "loot_simple_dungeon": "2025-05-16 06:57:01 +0000"
+      "kill_mimic": "2025-05-16 06:51:56 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-05-16 06:51:58 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-05-16 06:53:38 +0000"
     },
     "done": true
   },
@@ -5790,9 +5693,69 @@
     },
     "done": true
   },
-  "artifacts:amateur_archaeologist": {
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
     "criteria": {
-      "find_artifact": "2025-05-16 06:51:58 +0000"
+      "loot_simple_dungeon": "2025-05-16 06:57:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-05-16 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-05-16 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-05-16 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-16 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
+    "criteria": {
+      "has_dragonscale_bronze": "2025-05-16 22:27:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-05-16 22:26:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 22:26:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 22:26:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 22:26:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 22:26:29 +0000"
     },
     "done": true
   },
