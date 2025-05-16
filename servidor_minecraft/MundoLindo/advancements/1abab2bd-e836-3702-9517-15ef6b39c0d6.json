@@ -1741,9 +1741,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-14 03:03:32 +0000",
+      "minecraft:blaze": "2025-05-16 03:25:22 +0000",
       "minecraft:skeleton": "2025-05-14 02:06:29 +0000",
       "minecraft:spider": "2025-05-14 02:05:28 +0000",
       "minecraft:creeper": "2025-05-14 03:06:17 +0000",
+      "minecraft:wither_skeleton": "2025-05-16 03:23:32 +0000",
       "minecraft:stray": "2025-05-14 03:08:30 +0000",
       "minecraft:enderman": "2025-05-15 20:32:12 +0000",
       "minecraft:zombie": "2025-05-14 01:52:11 +0000",
@@ -1871,6 +1873,7 @@
       "sweet_berries": "2025-05-14 02:09:03 +0000",
       "mutton": "2025-05-14 01:57:19 +0000",
       "bread": "2025-05-15 19:44:56 +0000",
+      "golden_apple": "2025-05-16 03:25:07 +0000",
       "rotten_flesh": "2025-05-14 01:54:01 +0000",
       "dried_kelp": "2025-05-15 19:01:46 +0000"
     },
@@ -5143,6 +5146,102 @@
   "dungeonnowloading:story/root": {
     "criteria": {
       "obtain_crafting_table": "2025-05-16 02:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2025-05-16 03:20:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-05-16 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-16 03:25:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-05-16 03:22:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-05-16 03:22:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-16 03:20:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-05-16 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-16 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-05-16 03:18:11 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-05-16 03:29:06 +0000"
+    },
+    "done": true
+  },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-05-16 03:22:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-16 03:20:30 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/soot": {
+    "criteria": {
+      "has_copper_block": "2025-05-16 03:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-16 03:25:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-16 03:25:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-05-16 03:18:11 +0000"
     },
     "done": true
   },
