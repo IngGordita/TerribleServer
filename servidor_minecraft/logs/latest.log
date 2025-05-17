@@ -1,96 +1,715 @@
-[17May2025 00:02:45.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR fell from a high place
-[17May2025 00:02:45.484] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
-[17May2025 00:07:12.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Hoglin
-[17May2025 00:07:12.578] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
-[17May2025 00:07:34.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Hoglin
-[17May2025 00:17:20.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported AronTR to DestroyMarce7]
-[17May2025 00:18:01.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Set own game mode to Creative Mode]
-[17May2025 00:18:09.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Set own game mode to Survival Mode]
-[17May2025 00:26:14.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=139, y=58, z=-1912} BlockPos{x=136, y=54, z=-1909}
-[17May2025 00:26:14.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=139, y=58, z=-1912} BlockPos{x=136, y=54, z=-1909}
-[17May2025 00:27:28.138] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/51578, l='ServerLevel[Mundo nuevo]', x=94.00, y=31.00, z=-2125.00] as it would cause deadlock
-[17May2025 00:27:32.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Darude - Firestorm]
-[17May2025 00:28:33.334] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/51891, l='ServerLevel[Mundo nuevo]', x=-18.00, y=31.00, z=-2174.00] as it would cause deadlock
-[17May2025 00:28:57.744] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/52018, l='ServerLevel[Mundo nuevo]', x=195.00, y=31.00, z=-2171.00] as it would cause deadlock
-[17May2025 00:30:57.381] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/52497, l='ServerLevel[Mundo nuevo]', x=-94.00, y=31.00, z=-2196.00] as it would cause deadlock
-[17May2025 00:40:31.084] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55183, l='ServerLevel[Mundo nuevo]', x=-7.00, y=31.00, z=-2279.00] as it would cause deadlock
-[17May2025 00:43:36.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Dragon Commander]
-[17May2025 00:45:25.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Piglin
-[17May2025 00:45:53.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Timed out
-[17May2025 00:45:53.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
-[17May2025 00:45:53.669] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
-[17May2025 00:46:01.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.253.182.247:44889] logged in with entity id 56092 at (1038.5, 175.0, -1204.5)
-[17May2025 00:46:01.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
-[17May2025 00:46:01.597] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
-[17May2025 00:46:02.115] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
-[17May2025 00:46:02.115] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
-[17May2025 00:49:36.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 886.500000, 107.500000, -2820.500000]
-[17May2025 00:49:47.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 824.500000, 108.500000, -2722.500000]
-[17May2025 00:50:03.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was turned into KFC by Fire Dragon
-[17May2025 00:50:03.787] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
-[17May2025 00:50:32.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was incinerated by Fire Dragon
-[17May2025 00:50:38.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 853.500000, 120.500000, -2715.500000]
-[17May2025 00:50:48.969] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2571ms or 51 ticks behind
-[17May2025 00:51:11.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was burnt to a crisp whilst fighting Fire Dragon
-[17May2025 00:51:11.380] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
-[17May2025 00:51:15.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 852.500000, 121.500000, -2708.500000]
-[17May2025 00:51:40.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 872.500000, 177.500000, -2935.500000]
-[17May2025 00:51:58.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 871.500000, 170.500000, -3057.500000]
-[17May2025 00:52:46.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 973.500000, 102.500000, -3161.500000]
-[17May2025 00:53:45.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1228.500000, 25.500000, -3255.500000]
-[17May2025 00:53:55.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1276.500000, 32.500000, -3235.500000]
-[17May2025 00:53:58.321] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/61835, l='ServerLevel[Mundo nuevo]', x=1354.50, y=-28.00, z=-3342.50] as it would cause deadlock
-[17May2025 00:54:07.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1321.500000, 20.500000, -3291.500000]
-[17May2025 00:54:07.952] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/61879, l='ServerLevel[Mundo nuevo]', x=1354.50, y=-28.00, z=-3350.50] as it would cause deadlock
-[17May2025 00:54:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1264.500000, -8.500000, -3337.500000]
-[17May2025 00:54:31.493] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62027, l='ServerLevel[Mundo nuevo]', x=1301.50, y=-3.00, z=-3400.50] as it would cause deadlock
-[17May2025 00:54:31.508] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62029, l='ServerLevel[Mundo nuevo]', x=1293.50, y=-3.00, z=-3400.50] as it would cause deadlock
-[17May2025 00:54:31.900] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62040, l='ServerLevel[Mundo nuevo]', x=1298.50, y=-28.00, z=-3408.50] as it would cause deadlock
-[17May2025 00:54:32.159] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62052, l='ServerLevel[Mundo nuevo]', x=1348.50, y=-3.00, z=-3419.50] as it would cause deadlock
-[17May2025 00:54:32.160] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62054, l='ServerLevel[Mundo nuevo]', x=1348.50, y=-3.00, z=-3411.50] as it would cause deadlock
-[17May2025 00:54:32.663] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62081, l='ServerLevel[Mundo nuevo]', x=1293.50, y=-3.00, z=-3425.50] as it would cause deadlock
-[17May2025 00:54:32.757] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62086, l='ServerLevel[Mundo nuevo]', x=1301.50, y=-3.00, z=-3425.50] as it would cause deadlock
-[17May2025 00:54:33.128] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SpawnerCarrierEntity['Spawner Carrier'/62104, l='ServerLevel[Mundo nuevo]', x=1347.50, y=-3.00, z=-3380.50]
-[17May2025 00:54:33.128] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['Armor Stand'/62105, l='ServerLevel[Mundo nuevo]', x=1351.50, y=-4.00, z=-3385.50]
-[17May2025 00:54:33.128] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: ArmorStand['Armor Stand'/62106, l='ServerLevel[Mundo nuevo]', x=1359.50, y=-4.00, z=-3385.50]
-[17May2025 00:54:34.582] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62140, l='ServerLevel[Mundo nuevo]', x=1300.50, y=-3.00, z=-3453.50] as it would cause deadlock
-[17May2025 00:54:34.681] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/62154, l='ServerLevel[Mundo nuevo]', x=1390.50, y=-3.00, z=-3422.50] as it would cause deadlock
-[17May2025 00:54:35.746] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62212, l='ServerLevel[Mundo nuevo]', x=1405.50, y=-53.00, z=-3439.50] as it would cause deadlock
-[17May2025 00:54:36.360] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/62233, l='ServerLevel[Mundo nuevo]', x=1412.50, y=-6.00, z=-3411.50] as it would cause deadlock
-[17May2025 00:54:37.287] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/62264, l='ServerLevel[Mundo nuevo]', x=1427.50, y=-53.00, z=-3336.50] as it would cause deadlock
-[17May2025 00:54:38.890] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62304, l='ServerLevel[Mundo nuevo]', x=1299.50, y=-3.00, z=-3508.50] as it would cause deadlock
-[17May2025 00:54:41.344] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62350, l='ServerLevel[Mundo nuevo]', x=1287.50, y=-3.00, z=-3533.50] as it would cause deadlock
-[17May2025 00:54:41.345] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62353, l='ServerLevel[Mundo nuevo]', x=1295.50, y=-3.00, z=-3533.50] as it would cause deadlock
-[17May2025 00:54:41.356] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62355, l='ServerLevel[Mundo nuevo]', x=1331.50, y=-53.00, z=-3527.50] as it would cause deadlock
-[17May2025 00:54:45.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1367.500000, -3.500000, -3414.500000]
-[17May2025 00:54:46.154] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62625, l='ServerLevel[Mundo nuevo]', x=1428.50, y=-28.00, z=-3485.50] as it would cause deadlock
-[17May2025 00:54:47.708] [Worker-Main-16/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62701, l='ServerLevel[Mundo nuevo]', x=1459.50, y=-53.00, z=-3358.50] as it would cause deadlock
-[17May2025 00:54:52.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1413.500000, -9.500000, -3416.500000]
-[17May2025 00:54:53.859] [Worker-Main-24/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62820, l='ServerLevel[Mundo nuevo]', x=1487.50, y=-3.00, z=-3537.50] as it would cause deadlock
-[17May2025 00:54:54.264] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62834, l='ServerLevel[Mundo nuevo]', x=1495.50, y=-3.00, z=-3537.50] as it would cause deadlock
-[17May2025 00:54:56.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1386.500000, -3.500000, -3476.500000]
-[17May2025 00:54:57.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[17May2025 00:55:09.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1324.500000, -3.500000, -3529.500000]
-[17May2025 00:55:18.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1296.500000, -5.500000, -3535.500000]
-[17May2025 00:55:21.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1277.500000, -12.500000, -3555.500000]
-[17May2025 00:55:34.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1247.500000, 63.500000, -3606.500000]
-[17May2025 00:55:42.212] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[17May2025 00:55:43.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[17May2025 00:55:47.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1168.500000, 65.500000, -3695.500000]
-[17May2025 00:56:03.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6581ms or 131 ticks behind
-[17May2025 00:56:04.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Piglin Brute
-[17May2025 00:56:04.981] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
-[17May2025 00:56:08.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Tie me to the Mast]
-[17May2025 00:56:48.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1143.500000, 85.500000, -3805.500000]
-[17May2025 00:57:04.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1189.500000, -31.500000, -3834.500000]
-[17May2025 00:57:36.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1159.500000, -12.500000, -3877.500000]
-[17May2025 00:57:43.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1195.500000, -7.500000, -3928.500000]
-[17May2025 00:57:57.663] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65231, l='ServerLevel[Mundo nuevo]', x=10.00, y=31.00, z=-2500.00] as it would cause deadlock
-[17May2025 00:58:33.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1164.500000, -16.500000, -3977.500000]
-[17May2025 00:58:38.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1206.500000, -15.500000, -4019.500000]
-[17May2025 00:58:47.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1253.500000, 5.500000, -4071.500000]
-[17May2025 00:59:00.229] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65657, l='ServerLevel[Mundo nuevo]', x=87.00, y=31.00, z=-2550.00] as it would cause deadlock
-[17May2025 00:59:23.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1280.500000, -0.500000, -4117.500000]
-[17May2025 00:59:41.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DestroyMarce7 moved too quickly! -1.8336522084355238,2.1982269770018292,-9.790893353831962
-[17May2025 00:59:54.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1413.500000, 64.500000, -4236.500000]
-[17May2025 01:00:24.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to -2388.500000, 77.500000, -5597.500000]
+[17May2025 01:15:43.986] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[17May2025 01:15:43.990] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[17May2025 01:15:46.033] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[17May2025 01:15:46.087] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/TerribleServer/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[17May2025 01:15:46.462] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 01:15:46.466] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 01:15:46.467] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 01:15:46.468] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[17May2025 01:15:47.315] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 42 dependencies adding them to mods collection
+[17May2025 01:15:47.740] [main/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Starting runtime mappings setup...
+[17May2025 01:15:47.760] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injecting ScriptModLocator candidates...
+[17May2025 01:15:47.770] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Injected Jimfs file system
+[17May2025 01:15:47.778] [main/INFO] [org.groovymc.gml.scriptmods.ScriptModLocator/]: Skipped loading script mods from directory /workspaces/TerribleServer/servidor_minecraft/mods/scripts as it did not exist.
+[17May2025 01:15:47.785] [main/INFO] [org.groovymc.gml.internal.locator.ModLocatorInjector/]: Injected ScriptModLocator mod candidates. Found 0 valid mod candidates and 0 broken mod files.
+[17May2025 01:15:51.297] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Loaded runtime mappings in 3347ms
+[17May2025 01:15:51.298] [GML Mappings Thread/INFO] [org.groovymc.gml.mappings.MappingsProvider/]: Finished runtime mappings setup.
+[17May2025 01:15:51.933] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17May2025 01:15:51.995] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[17May2025 01:15:52.148] [main/ERROR] [mixin/]: Mixin config yacl.mixins.json does not specify "minVersion" property
+[17May2025 01:15:52.211] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.robertx22.mmorpg.MixinConnector]
+[17May2025 01:15:52.212] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[17May2025 01:15:52.213] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[17May2025 01:15:52.214] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.robertx22.library_of_exile.MixinConnector]
+[17May2025 01:15:52.218] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[17May2025 01:15:52.374] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 0 override(s) found
+[17May2025 01:15:52.375] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[17May2025 01:15:52.395] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[17May2025 01:15:52.482] [main/INFO] [fpsreducer/]: OptiFine was NOT detected.
+[17May2025 01:15:52.484] [main/INFO] [fpsreducer/]: OptiFabric was NOT detected.
+[17May2025 01:15:52.499] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 148 options available, 0 override(s) found
+[17May2025 01:15:52.565] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2025 01:15:52.610] [main/WARN] [mixin/]: Reference map 'farmersrespite.refmap.json' for farmersrespite.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2025 01:15:52.637] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2025 01:15:52.695] [main/INFO] [Puzzles Lib/]: Loading 103 mods:
+	- advancementplaques 1.6.9
+	- ambientsounds 6.1.9
+	- amendments 1.20-1.2.19
+	- appleskin 2.5.1+mc1.20.1
+	- aquaculture 2.5.5
+	- architectury 9.2.14
+	- armoroftheages 1.3.5
+	- artifacts 9.5.16
+		\-- expandability 9.0.4
+	- astikorcarts 1.1.8
+	- balm 7.3.27
+		\-- kuma_api 20.1.10
+	- betteradvancements 0.4.2.10
+	- betterchunkloading 1.20.1-5.4
+	- betterfpsdist 1.20.1-6.0
+	- chloride 1.6.0
+	- chunksending 1.20.1-2.8
+	- citadel 2.6.1
+	- cleanswing 1.8
+	- cloth_config 11.1.136
+	- commongroovylibrary 0.3.3
+	- craftingtweaks 18.2.5
+	- creativecore 2.12.32
+	- cristellib 1.1.6
+	- cupboard 1.20.1-2.7
+	- curios 5.14.1+1.20.1
+	- decoration_delight 1.0.0
+	- decorative_blocks 4.1.3
+	- dungeon_realm 1.0.4
+	- dungeonnowloading 1.5
+	- dustydecorations 1.3.3
+	- dynamiclights 1.20.1.2
+	- eatinganimation 5.1.0
+	- embeddium 0.3.31+mc1.20.1
+		\-- rubidium 0.7.1
+	- endrem 5.3.3-R-1.20.1
+	- enhancedvisuals 1.8.2
+	- entity_model_features 2.4.1
+	- entity_texture_features 6.2.9
+	- entityculling 1.7.4
+	- etched 3.0.4
+	- explorerscompass 1.20.1-1.3.3-forge
+	- farmersdelight 1.20.1-1.2.7
+	- farmersrespite 1.20.1-2.1
+	- fastconfigapi 2.1.0
+	- ferritecore 6.0.1
+	- forge 47.3.7
+	- fpsreducer 1.20-2.5
+	- geckolib 4.7
+	- geophilic 3.4.1
+	- gml 4.0.11
+	- iceandfire 2.1.13-1.20.1
+	- iceberg 1.1.25
+	- immediatelyfast 1.5.0+1.20.4
+	- immersive_weathering 1.20.1-2.0.5
+	- incendium 5.3.5
+	- ironchest 1.20.1-14.4.4
+	- jade 11.13.1+forge
+	- jei 15.20.0.106
+	- justzoom 2.1.1
+	- konkrete 1.8.0
+	- library_of_exile 2.0.7
+	- mantle 1.11.44
+	- mcwwindows 2.3.0
+	- minecraft 1.20.1
+	- mmorpg 6.2.5
+	- modernfix 5.21.0+mc1.20.1
+	- moonlight 1.20-2.13.82
+	- moremobvariants 1.3.0.1
+	- mousetweaks 2.25.1
+	- mr_limesplatus_ending 1-v1.1.0c
+	- mr_veinminer 1.1.0
+	- mvs 4.1.4-1.20-forge
+	- noisium 2.3.0+mc1.20-1.20.1
+	- notenoughanimations 1.9.3
+	- nullscape 1.2.8
+	- playeranimator 1.0.2-rc1+1.20
+	- presencefootsteps 1.20.1-1.9.1-beta.1
+	- puzzleslib 8.1.32
+		|-- mixinextras 0.4.1
+		\-- puzzlesaccessapi 20.1.1
+	- radiantgear 2.2.0+1.20.1
+	- sophisticatedbackpacks 3.23.13.1230
+	- sophisticatedcore 1.2.51.966
+	- sound_physics_remastered 1.20.1-1.4.10
+	- spartanshields 3.1.1
+	- spartanweaponry 3.1.3
+	- starlight 1.1.2+forge.1cda73c
+	- supplementaries 1.20-3.1.30
+		\-- mixinsquared 0.1.1
+	- t_and_t 0.0NONE
+	- tconstruct 3.9.2.37
+	- tectonic 2.4.1
+	- the_harvest 1.0.0
+	- tombstone 8.9.4
+	- veggiesdelight 1.7
+	- vintagedelight 0.1.6
+	- voicechat 1.20.1-2.5.30
+	- void_lib 1.1.5
+	- wardrobe 1.0.3.1
+	- waystones 14.1.11
+	- xaerominimap 25.2.0
+	- xaeroworldmap 1.39.4
+	- yet_another_config_lib_v3 3.6.6+1.20.1-forge
+[17May2025 01:15:52.724] [main/WARN] [mixin/]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[17May2025 01:15:54.113] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/layers/ItemInHandLayer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.layers.ItemInHandLayer)
+[17May2025 01:15:54.113] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.layers.ItemInHandLayer was not found mmorpg-mixins.json:PlayerAnimMixin
+[17May2025 01:15:54.714] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[17May2025 01:15:55.250] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (13.62 s after launch)
+[17May2025 01:15:55.380] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[17May2025 01:15:55.381] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[17May2025 01:15:55.506] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[17May2025 01:15:55.507] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[17May2025 01:15:58.136] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2882 milliseconds
+[17May2025 01:16:01.287] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[17May2025 01:16:01.697] [main/INFO] [org.groovymc.gml.internal.ModExtensionLoader/]: Skipping extension class org.groovymc.cgl.api.extension.client.MinecraftExtensions: it requires dist CLIENT, but we're running on DEDICATED_SERVER
+[17May2025 01:16:02.080] [modloading-worker-0/INFO] [Exile Log: com.robertx22.library_of_exile.registry.helpers.OrderedModConstructor/]: Mod Constructor Registered : the_harvest
+[17May2025 01:16:02.156] [modloading-worker-0/INFO] [Void Lib/]: Void Lib successfully started!
+[17May2025 01:16:02.189] [modloading-worker-0/INFO] [Fast Config API/]: FastConfigAPI has been initialized
+[17May2025 01:16:02.279] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[17May2025 01:16:02.281] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[17May2025 01:16:02.564] [modloading-worker-0/INFO] [gml/]: Initialised GML mod. Version: 4.0.11
+[17May2025 01:16:02.626] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[17May2025 01:16:02.663] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[17May2025 01:16:02.666] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[17May2025 01:16:02.667] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[17May2025 01:16:02.854] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[17May2025 01:16:02.882] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[17May2025 01:16:02.912] [modloading-worker-0/INFO] [Exile Log: com.robertx22.library_of_exile.registry.helpers.OrderedModConstructor/]: Mod Constructor Registered : mmorpg
+[17May2025 01:16:03.366] [modloading-worker-0/INFO] [Exile Log: com.robertx22.library_of_exile.registry.helpers.OrderedModConstructor/]: Mod Constructor Registered : dungeon_realm
+[17May2025 01:16:03.607] [modloading-worker-0/INFO] [chloride/Main]: Chloride is not intended to be on servers, loaded in inner mode
+[17May2025 01:16:03.849] [modloading-worker-0/INFO] [dungeon_realm/]: Dungeon Realm loaded.
+[17May2025 01:16:03.905] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[17May2025 01:16:03.906] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[17May2025 01:16:03.912] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[17May2025 01:16:03.913] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[17May2025 01:16:03.913] [modloading-worker-0/INFO] [Dungeon Now Loading/]: Hello Forge world!
+[17May2025 01:16:03.914] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[17May2025 01:16:03.917] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[17May2025 01:16:03.923] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[17May2025 01:16:03.962] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[17May2025 01:16:03.962] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[17May2025 01:16:04.429] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[17May2025 01:16:04.610] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing AOTAConfig from '/workspaces/TerribleServer/servidor_minecraft/config/config/armoroftheages.json'
+[17May2025 01:16:04.661] [modloading-worker-0/INFO] [Exile Log: com.robertx22.library_of_exile.registry.helpers.OrderedModConstructor/]: Mod Constructor Registered : library_of_exile
+[17May2025 01:16:04.694] [modloading-worker-0/INFO] [YetAnotherConfigLib/]: Deserializing YACLConfig from '/workspaces/TerribleServer/servidor_minecraft/config/yacl.json5'
+[17May2025 01:16:04.705] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[17May2025 01:16:04.759] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[17May2025 01:16:04.819] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[17May2025 01:16:04.928] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[17May2025 01:16:04.928] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[17May2025 01:16:07.545] [main/INFO] [Moonlight/]: Initialized block sets in 15ms
+[17May2025 01:16:09.210] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[17May2025 01:16:09.447] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[17May2025 01:16:09.548] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[17May2025 01:16:09.591] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[17May2025 01:16:09.633] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[17May2025 01:16:09.652] [modloading-worker-0/INFO] [com.betterchunkloading.BetterChunkLoading/]: betterchunkloading mod initialized
+[17May2025 01:16:09.671] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[17May2025 01:16:09.677] [modloading-worker-0/INFO] [com.chunksending.ChunkSending/]: chunksending mod initialized
+[17May2025 01:16:09.682] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[17May2025 01:16:09.698] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[17May2025 01:16:09.698] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[17May2025 01:16:09.710] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[17May2025 01:16:09.711] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[17May2025 01:16:09.712] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[17May2025 01:16:09.726] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[17May2025 01:16:09.728] [modloading-worker-0/WARN] [Exile Log: com.robertx22.library_of_exile.registry.ExileRegistryContainer/]: Entry of type: mmorpg_stat_condition already exists as seriazable: random_roll
+[17May2025 01:16:09.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: UP_TO_DATE Current: 2.3.0 Target: null
+[17May2025 01:16:09.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/1.20/forge/update.json
+[17May2025 01:16:09.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: BETA Current: 1.20-3.1.30 Target: null
+[17May2025 01:16:09.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Starting version check at https://mc-update-check.anthonyhilyard.com/499826
+[17May2025 01:16:09.874] [modloading-worker-0/WARN] [Exile Log: com.robertx22.library_of_exile.registry.ExileRegistryContainer/]: Entry of type: mmorpg_gear_rarity already exists as seriazable: common
+[17May2025 01:16:09.874] [modloading-worker-0/WARN] [Exile Log: com.robertx22.library_of_exile.registry.ExileRegistryContainer/]: Entry of type: mmorpg_gear_rarity already exists as seriazable: uncommon
+[17May2025 01:16:09.876] [modloading-worker-0/WARN] [Exile Log: com.robertx22.library_of_exile.registry.ExileRegistryContainer/]: Entry of type: library_of_exile_item_requirement already exists as seriazable: is_map
+[17May2025 01:16:09.928] [main/INFO] [Supplementaries/]: Finished mod setup in: [0, 2, 0, 1, 0, 0, 11, 6, 1] ms
+[17May2025 01:16:10.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancementplaques] Found status: UP_TO_DATE Current: 1.6.9 Target: null
+[17May2025 01:16:10.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Starting version check at https://maven.moddinginquisition.org/releases/org/groovymc/gml/gml/forge-promotions.json
+[17May2025 01:16:10.070] [main/INFO] [Moonlight/]: Initialized color sets in 50ms
+[17May2025 01:16:10.160] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[17May2025 01:16:10.161] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[17May2025 01:16:10.186] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[17May2025 01:16:10.186] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[17May2025 01:16:10.509] [modloading-worker-0/INFO] [de.mennomax.astikorcarts.AstikorCarts/]: Automatic pull animal configuration:
+pull_animals = [
+    "minecraft:camel",
+    "minecraft:donkey",
+    "minecraft:horse",
+    "minecraft:mule",
+    "minecraft:skeleton_horse",
+    "minecraft:zombie_horse",
+    "minecraft:player",
+    "iceandfire:hippocampus",
+    "iceandfire:dread_horse"
+  ]
+[17May2025 01:16:10.528] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[17May2025 01:16:10.534] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.mehvahdjukaar.supplementaries.integration.JadeCompat
+[17May2025 01:16:10.536] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[17May2025 01:16:10.536] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[17May2025 01:16:10.537] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[17May2025 01:16:10.548] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gml] Found status: BETA Current: 4.0.11 Target: null
+[17May2025 01:16:10.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[17May2025 01:16:10.549] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[17May2025 01:16:10.554] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[17May2025 01:16:10.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.4 Target: null
+[17May2025 01:16:10.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Starting version check at https://api.modrinth.com/updates/MCnBYP0b/forge_updates.json
+[17May2025 01:16:10.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_limesplatus_ending] Found status: OUTDATED Current: 1-v1.1.0c Target: 1.1.0c+mod
+[17May2025 01:16:10.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Starting version check at https://api.modrinth.com/updates/OhduvhIc/forge_updates.json
+[17May2025 01:16:10.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_veinminer] Found status: OUTDATED Current: 1.1.0 Target: 1.1.0+mod
+[17May2025 01:16:10.695] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[17May2025 01:16:10.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[17May2025 01:16:10.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17May2025 01:16:10.821] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[17May2025 01:16:10.822] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[17May2025 01:16:11.213] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17May2025 01:16:11.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.30 Target: null
+[17May2025 01:16:11.353] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[17May2025 01:16:11.455] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.13
+[17May2025 01:16:11.458] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[17May2025 01:16:11.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.13.82 Target: null
+[17May2025 01:16:11.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[17May2025 01:16:11.502] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.1.25 Target: null
+[17May2025 01:16:11.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[17May2025 01:16:11.516] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[17May2025 01:16:11.517] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[17May2025 01:16:11.607] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[17May2025 01:16:11.664] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23291!/assets/.mcassetsroot' uses unexpected schema
+[17May2025 01:16:11.665] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/TerribleServer/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23291!/data/.mcassetsroot' uses unexpected schema
+[17May2025 01:16:11.849] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Generated runtime SERVER_DATA for pack Immersive Weathering Generated Pack (immersive_weathering) in: 47 ms
+[17May2025 01:16:11.926] [main/INFO] [Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 76 ms
+[17May2025 01:16:13.977] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[17May2025 01:16:14.481] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.4.jar
+[17May2025 01:16:14.519] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:fruits as it is missing following references: #forge:fruits/gearo_berry (from vintagedelight-0.1.6.jar)
+[17May2025 01:16:14.521] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:protein as it is missing following references: #forge:protein/peanut (from vintagedelight-0.1.6.jar)
+[17May2025 01:16:14.529] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:crops as it is missing following references: #forge:crops/bellpepper (from veggiesdelight-1.7.jar)
+[17May2025 01:16:14.616] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag supplementaries:tipped_spikes_blacklist as it is missing following references: minecraft:oozing (from supplementaries-1.20-3.1.30.jar), 
+	minecraft:infested (from supplementaries-1.20-3.1.30.jar)
+[17May2025 01:16:15.290] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[17May2025 01:16:15.421] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[17May2025 01:16:15.523] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:farmersrespite:blocks/kettle
+com.google.gson.JsonSyntaxException: Unknown type 'farmersrespite:copy_meal'
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:149) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23296!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23291!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[17May2025 01:16:15.683] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[17May2025 01:16:15.882] [Worker-Main-3/INFO] [Mantle/]: Loaded 20 loot table injectors injecting into 18 tables in 14.79219 ms
+[17May2025 01:16:15.976] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:15.977] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:15.986] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:15.988] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/wild_bellpepper: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[17May2025 01:16:16.002] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[17May2025 01:16:16.003] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.004] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe culturaldelight:eggplant_burger: com.google.gson.JsonSyntaxException: Unknown item 'culturaldelights:eggplant_burger'
+[17May2025 01:16:16.030] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[17May2025 01:16:16.030] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[17May2025 01:16:16.031] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.035] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[17May2025 01:16:16.035] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[17May2025 01:16:16.036] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.037] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.040] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.040] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.046] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.052] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.064] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[17May2025 01:16:16.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:steak_fajitas: com.google.gson.JsonSyntaxException: Unknown item 'veggiesdelight:steak_fajitas'
+[17May2025 01:16:16.073] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vintagedelight:fermenting/frost_fermenta: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:rotten_tomato'
+[17May2025 01:16:16.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.088] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[17May2025 01:16:16.089] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[17May2025 01:16:16.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vintagedelight:cutting/stripped_magic_vine: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+[17May2025 01:16:16.101] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[17May2025 01:16:16.101] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_blasting_lead_weapons as it's serializer returned null
+[17May2025 01:16:16.102] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/wild_sweet_potatoes: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[17May2025 01:16:16.105] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.112] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[17May2025 01:16:16.112] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_smelting_tin_weapons as it's serializer returned null
+[17May2025 01:16:16.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dustydecorations:gold_pile_reverse_recipe: com.google.gson.JsonSyntaxException: Unknown item 'dustydecorations:deleted_mod_element'
+[17May2025 01:16:16.116] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe culturaldelight:avocado_toast: com.google.gson.JsonSyntaxException: Unknown item 'culturaldelights:avocado_toast'
+[17May2025 01:16:16.123] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/cauliflower: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[17May2025 01:16:16.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.125] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.125] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/garlic: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[17May2025 01:16:16.130] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.132] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/sweet_potato: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[17May2025 01:16:16.133] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.136] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.137] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.138] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.141] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[17May2025 01:16:16.142] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[17May2025 01:16:16.158] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.163] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.163] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[17May2025 01:16:16.163] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[17May2025 01:16:16.164] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.167] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.169] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[17May2025 01:16:16.169] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[17May2025 01:16:16.170] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.173] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[17May2025 01:16:16.173] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[17May2025 01:16:16.174] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.174] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.177] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.180] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.182] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[17May2025 01:16:16.185] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[17May2025 01:16:16.187] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.188] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.193] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.195] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[17May2025 01:16:16.195] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_blasting_bronze_weapons as it's serializer returned null
+[17May2025 01:16:16.206] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:pouring/water_cup: com.google.gson.JsonSyntaxException: Unknown item 'miners_delight:copper_cup'
+[17May2025 01:16:16.208] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[17May2025 01:16:16.208] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[17May2025 01:16:16.208] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[17May2025 01:16:16.209] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[17May2025 01:16:16.215] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/lead" Skipping...
+[17May2025 01:16:16.215] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:lead_nugget_from_smelting_lead_weapons as it's serializer returned null
+[17May2025 01:16:16.215] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.217] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/water_cup: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.220] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.220] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe corndelight:chicken_fajitas_wrap: com.google.gson.JsonSyntaxException: Unknown item 'corn_delight:tortilla'
+[17May2025 01:16:16.235] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe moredelight:garlic_bread: com.google.gson.JsonSyntaxException: Unknown item 'moredelight:toast'
+[17May2025 01:16:16.238] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[17May2025 01:16:16.238] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[17May2025 01:16:16.244] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.244] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.245] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/gamblers_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.245] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.246] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.250] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.251] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.252] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/bellpepper: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[17May2025 01:16:16.253] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.254] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_yellow_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.255] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/bronze" Skipping...
+[17May2025 01:16:16.255] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:bronze_nugget_from_smelting_bronze_weapons as it's serializer returned null
+[17May2025 01:16:16.261] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe vintagedelight:cutting/stripped_magic_vine_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:cutting'
+[17May2025 01:16:16.262] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[17May2025 01:16:16.266] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/wild_cauliflowers: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[17May2025 01:16:16.268] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_black_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.268] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dustydecorations:bucket_o_coins_recipe: com.google.gson.JsonSyntaxException: Unknown item 'dustydecorations:deleted_mod_element_bucket'
+[17May2025 01:16:16.270] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/long_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.271] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.274] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_purulent_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.277] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.287] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_green_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.290] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/hot_cocoa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.290] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[17May2025 01:16:16.290] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[17May2025 01:16:16.293] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:emptying/strong_coffee: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:emptying'
+[17May2025 01:16:16.296] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/melon_juice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.299] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/tin" Skipping...
+[17May2025 01:16:16.299] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:tin_nugget_from_blasting_tin_weapons as it's serializer returned null
+[17May2025 01:16:16.300] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/strong_apple_cider: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.300] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/long_rose_hip_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.303] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe moredelight:cooking/fish_and_chips: com.google.gson.JsonSyntaxException: Unknown item 'moredelight:diced_potatoes'
+[17May2025 01:16:16.306] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersrespite:filling/dandelion_tea: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:filling'
+[17May2025 01:16:16.308] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe veggiesdelight:botany/wild_garlic: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'botanypots:crop'
+[17May2025 01:16:16.314] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 27 recipes
+[17May2025 01:16:16.349] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[17May2025 01:16:16.396] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement farmersrespite:main/stunt_tea_bush: Invalid criterion trigger: farmersrespite:stunt_tea_bush
+[17May2025 01:16:16.427] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[17May2025 01:16:16.458] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[17May2025 01:16:16.464] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[17May2025 01:16:16.529] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3682 advancements
+[17May2025 01:16:16.541] [main/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[17May2025 01:16:16.565] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[17May2025 01:16:16.584] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[17May2025 01:16:16.593] [main/INFO] [Supplementaries/]: Loaded 27 flute songs
+[17May2025 01:16:16.635] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 25 dynamic modifiers in 0.974647 ms
+[17May2025 01:16:16.635] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[17May2025 01:16:16.726] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 134 dynamic modifiers and 4 modifier redirects in 62.512623 ms
+[17May2025 01:16:16.740] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 40 modifier tags for 138 modifiers in 14.024879 ms
+[17May2025 01:16:16.741] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 1.051621 ms
+[17May2025 01:16:16.745] [main/INFO] [tconstruct/]: Loaded 45 spilling fluids in 3.296957 ms
+[17May2025 01:16:17.477] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 50 materials in 4.477899 ms
+[17May2025 01:16:17.486] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 20 materials in 8.668513 ms
+[17May2025 01:16:17.500] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 358 stats loaded for 60 materials in 14.016433 ms
+[17May2025 01:16:17.519] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 185 traits loaded for 60 materials in 19.256285 ms
+[17May2025 01:16:17.530] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 38 tool definitions in 10.588663 ms
+[17May2025 01:16:17.534] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 19 station slot layouts in 2.994454 ms
+[17May2025 01:16:17.612] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.490677ms
+[17May2025 01:16:17.670] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 78 block growths configurations
+[17May2025 01:16:17.679] [main/INFO] [com.ordana.immersive_weathering.ImmersiveWeathering/]: Loaded 14 liquid generators configurations
+[17May2025 01:16:17.702] [main/INFO] [Moonlight/]: Applied 7 data villager trades
+[17May2025 01:16:17.799] [main/INFO] [Supplementaries/]: Finished additional setup in 0 ms
+[17May2025 01:16:17.929] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[17May2025 01:16:17.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17May2025 01:16:17.930] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17May2025 01:16:17.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17May2025 01:16:18.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17May2025 01:16:18.170] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17May2025 01:16:18.240] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17May2025 01:16:18.240] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17May2025 01:16:18.241] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17May2025 01:16:18.241] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17May2025 01:16:18.373] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 01:16:18.374] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[17May2025 01:16:18.374] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[17May2025 01:16:18.374] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 01:16:18.374] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[17May2025 01:16:18.375] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 01:16:18.376] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[17May2025 01:16:18.376] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[17May2025 01:16:18.376] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 01:16:18.376] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[17May2025 01:16:18.399] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 01:16:18.400] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 glowstone
+[17May2025 01:16:18.400] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 2
+[17May2025 01:16:18.400] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser identified itemstack 1 torch
+[17May2025 01:16:18.400] [Server thread/INFO] [com.illusivesoulworks.radiantgear.integration.dynamiclights.DynamicLightsModule.CuriosLightSource/]: item config parser finished, item count: 1
+[17May2025 01:16:18.405] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "MundoLindo"
+[17May2025 01:16:18.811] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterchunkloading.json
+[17May2025 01:16:19.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17May2025 01:16:20.906] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 01:16:20.907] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 01:16:20.907] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 01:16:20.907] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17May2025 01:16:21.304] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[17May2025 01:16:21.805] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 65%
+[17May2025 01:16:21.983] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2680 ms
+[17May2025 01:16:21.984] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.731s)! For help, type "help"
+[17May2025 01:16:22.034] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17May2025 01:16:22.039] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: chunksending.json
+[17May2025 01:16:22.040] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
+[17May2025 01:16:22.178] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[17May2025 01:16:22.178] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[17May2025 01:16:22.284] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[17May2025 01:16:22.301] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[17May2025 01:16:22.303] [Server thread/WARN] [ModernFix/]: Dedicated server took 40.677 seconds to load
+[17May2025 01:16:40.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.253.182.247:41825] logged in with entity id 452 at (68.95442993015611, 32.0, -2446.605308512792)
+[17May2025 01:16:40.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[17May2025 01:16:40.865] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[17May2025 01:16:41.923] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[17May2025 01:16:41.924] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[17May2025 01:17:12.632] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6e261e27[id=<null>,name=DestroyMarce7,properties={},legacy=false] (/127.107.58.220:34179): Took too long to log in
+[17May2025 01:17:12.633] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e261e27[id=<null>,name=DestroyMarce7,properties={},legacy=false] (/127.107.58.220:34179) lost connection: Took too long to log in
+[17May2025 01:17:12.668] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17May2025 01:17:39.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [The Dust Settles]
+[17May2025 01:17:42.155] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DestroyMarce7[/127.107.58.220:44349] logged in with entity id 805 at (1040.7188094482897, 175.0, -1207.4358657198225)
+[17May2025 01:17:42.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 joined the game
+[17May2025 01:17:42.275] [Server thread/INFO] [Jade/]: Syncing config to DestroyMarce7 (417250f2-70ac-3f9e-ae2c-74c0ab6b2b83)
+[17May2025 01:17:42.674] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of DestroyMarce7 (18)
+[17May2025 01:17:42.675] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to DestroyMarce7
+[17May2025 01:18:43.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1041.500000, 142.500000, -1363.500000]
+[17May2025 01:19:22.096] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1497, l='ServerLevel[Mundo nuevo]', x=-157.00, y=31.00, z=-2751.00] as it would cause deadlock
+[17May2025 01:19:39.598] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1695, l='ServerLevel[Mundo nuevo]', x=-374.54, y=36.44, z=-2809.49] as it would cause deadlock
+[17May2025 01:19:40.374] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1713, l='ServerLevel[Mundo nuevo]', x=-314.70, y=36.52, z=-2824.59] as it would cause deadlock
+[17May2025 01:19:46.243] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=15, z=-22}
+[17May2025 01:20:05.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1154.500000, 207.500000, -1215.500000]
+[17May2025 01:21:27.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1017.500000, 175.500000, -1201.500000]
+[17May2025 01:22:51.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Set own game mode to Creative Mode]
+[17May2025 01:23:04.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Set own game mode to Survival Mode]
+[17May2025 01:24:39.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1360.500000, 78.500000, -2036.500000]
+[17May2025 01:24:45.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1112.500000, 71.500000, -1981.500000]
+[17May2025 01:24:49.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1011.500000, 79.500000, -1844.500000]
+[17May2025 01:24:54.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1087.500000, 75.500000, -1838.500000]
+[17May2025 01:25:02.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Funeral Theft]
+[17May2025 01:25:05.675] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/1733, l='ServerLevel[Mundo nuevo]', x=-333.06, y=56.50, z=-2797.58] died: Piglin Paratrooper was doomed to fall
+[17May2025 01:25:06.340] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/4227, l='ServerLevel[Mundo nuevo]', x=-431.10, y=137.00, z=-2937.00] as it would cause deadlock
+[17May2025 01:25:10.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/1734, l='ServerLevel[Mundo nuevo]', x=-334.42, y=54.50, z=-2798.35] died: Piglin Paratrooper was doomed to fall
+[17May2025 01:25:11.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [In the Hall of the Piglin King]
+[17May2025 01:25:16.710] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:25:16.710] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:25:16.711] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:25:16.711] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:25:39.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.115.103.227:39959] logged in with entity id 4389 at (1124.4915397757854, 0.0, -1378.0382099264184)
+[17May2025 01:25:39.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[17May2025 01:25:39.942] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[17May2025 01:25:40.517] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
+[17May2025 01:25:40.517] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
+[17May2025 01:25:51.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1100.500000, 74.500000, -3043.500000]
+[17May2025 01:25:58.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> esos patas no descansan
+[17May2025 01:26:04.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> ma¿no
+[17May2025 01:26:09.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> yo he estao haciendo quimica
+[17May2025 01:26:11.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> toda la tarde
+[17May2025 01:26:12.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> XC
+[17May2025 01:26:28.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> JAJAJAJA
+[17May2025 01:26:33.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pq química??
+[17May2025 01:26:42.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> no andas al día o q
+[17May2025 01:26:46.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was turned into KFC by Fire Dragon
+[17May2025 01:27:03.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was turned into KFC by Fire Dragon
+[17May2025 01:27:07.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> oe gorda
+[17May2025 01:27:13.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> un favor
+[17May2025 01:27:40.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/1623, l='ServerLevel[Mundo nuevo]', x=-283.30, y=64.05, z=-2763.30] died: Piglin Paratrooper withered away whilst fighting AronTR
+[17May2025 01:27:40.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was burnt to a crisp whilst fighting Fire Dragon
+[17May2025 01:27:40.521] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[17May2025 01:27:46.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1237.500000, 111.500000, -3102.500000]
+[17May2025 01:27:49.902] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:27:49.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:27:49.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:27:49.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:27:49.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:27:49.903] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:27:54.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> podrías resetearme mis puntos de todo el mod de las stats para colocarme los puntos de nuevo pls
+[17May2025 01:28:00.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was incinerated by Fire Dragon
+[17May2025 01:28:01.402] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:28:01.402] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:28:01.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:28:01.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:28:01.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:28:01.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:28:01.403] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:28:10.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1234.500000, 110.500000, -3103.500000]
+[17May2025 01:28:25.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 burned to death
+[17May2025 01:28:25.593] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[17May2025 01:28:36.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> Rodolfo}
+[17May2025 01:28:39.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> si no me equivoco
+[17May2025 01:28:40.154] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/1858, l='ServerLevel[Mundo nuevo]', x=-289.68, y=35.00, z=-2804.70] died: Piglin Paratrooper self destructed
+[17May2025 01:28:44.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> eso lo puedes hacer desde el mismo juego
+[17May2025 01:28:52.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> xd en esa tabla crea un personaje y ahi lo hbaces desde 0
+[17May2025 01:28:58.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> tipo sabio
+[17May2025 01:29:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> muchas gracias.
+[17May2025 01:29:03.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> yo me acuerdo que asi fue
+[17May2025 01:29:04.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> busca yutu
+[17May2025 01:29:08.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> una ves lo hice
+[17May2025 01:29:51.229] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/3205, l='ServerLevel[Mundo nuevo]', x=-284.37, y=62.00, z=-2850.34] died: Piglin Paratrooper was slain by AronTR
+[17May2025 01:30:08.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> no se puede, tipo apareces en nivel 1 p
+[17May2025 01:30:23.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AronTR> por manco pe
+[17May2025 01:30:25.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> lo q yo quiero es resetear los puntos q le metí a cada wbd para poder ponerlos mejor
+[17May2025 01:30:27.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> JAJAJAJA
+[17May2025 01:30:28.101] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9595, l='ServerLevel[Mundo nuevo]', x=-476.00, y=31.00, z=-2948.00] as it would cause deadlock
+[17May2025 01:30:36.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> palteador ese ferry
+[17May2025 01:30:41.605] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:30:41.605] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:30:48.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> no se no se puede
+[17May2025 01:30:52.751] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:30:52.751] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:30:52.751] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:30:52.751] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:30:52.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> si lo hago desde la consola
+[17May2025 01:30:56.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> re reinicio todo osea
+[17May2025 01:31:01.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> tipo te quedas suin puntos
+[17May2025 01:31:03.233] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/3247, l='ServerLevel[Mundo nuevo]', x=-362.82, y=58.77, z=-2849.70] died: Piglin Knight tried to swim in lava to escape AronTR
+[17May2025 01:31:03.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> busalo en yutu
+[17May2025 01:31:07.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was shot by Arrow
+[17May2025 01:31:07.314] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[17May2025 01:31:11.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> no sabes el comando?
+[17May2025 01:31:21.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DestroyMarce7> como se llmada el mod
+[17May2025 01:31:26.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> mine and slash
+[17May2025 01:31:36.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1481.500000, 124.500000, -2886.500000]
+[17May2025 01:31:37.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> el primer punto del comando es /mine_and_slash
+[17May2025 01:31:45.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1017.500000, 175.500000, -1201.500000]
+[17May2025 01:32:12.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to AronTR]
+[17May2025 01:32:13.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has reached the goal [In the Hall of the Piglin King]
+[17May2025 01:32:13.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [The Dust Settles]
+[17May2025 01:33:28.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Spectral Wolf
+[17May2025 01:33:34.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to AronTR]
+[17May2025 01:33:57.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/10338, l='ServerLevel[Mundo nuevo]', x=-366.37, y=62.00, z=-2846.06] died: Piglin Scout went off with a bang
+[17May2025 01:34:07.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 bled to death
+[17May2025 01:34:07.132] [Server thread/INFO] [tombstone/]: The player DestroyMarce7 has successfully been saved
+[17May2025 01:34:55.386] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:34:55.386] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:34:55.386] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:34:55.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:34:55.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:34:55.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:34:55.387] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[17May2025 01:35:06.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Piglin Paratrooper
+[17May2025 01:35:55.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported AronTR to DestroyMarce7]
+[17May2025 01:36:12.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Disconnected
+[17May2025 01:36:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[17May2025 01:36:12.628] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[17May2025 01:36:12.683] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17May2025 01:36:30.883] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5756dea4[id=<null>,name=AronTR,properties={},legacy=false] (/127.253.182.247:40637) lost connection: Disconnected
+[17May2025 01:36:33.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD moved too quickly! 4.118418789400266,-2.52247877379308,-8.774654969419316
+[17May2025 01:36:37.953] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.253.182.247:54041] logged in with entity id 12760 at (-295.1604783822873, 54.0, -2823.468980886116)
+[17May2025 01:36:38.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[17May2025 01:36:38.072] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[17May2025 01:36:38.385] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[17May2025 01:36:38.386] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[17May2025 01:36:54.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to ChupetinXD]
+[17May2025 01:37:04.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 1017.500000, 175.500000, -1201.500000]
+[17May2025 01:37:17.438] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[17May2025 01:37:18.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was slain by Magma Cube
+[17May2025 01:37:18.641] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[17May2025 01:37:51.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Set own game mode to Creative Mode]
+[17May2025 01:37:57.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Set own game mode to Survival Mode]
+[17May2025 01:38:54.131] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/13269, l='ServerLevel[Mundo nuevo]', x=-316.92, y=62.00, z=-2864.34] died: Piglin Paratrooper was killed by magic whilst trying to escape AronTR
+[17May2025 01:39:07.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to AronTR]
+[17May2025 01:39:12.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> pera busco el comando
+[17May2025 01:39:13.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ChupetinXD lost connection: Disconnected
+[17May2025 01:39:13.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD left the game
+[17May2025 01:39:13.279] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ChupetinXD
+[17May2025 01:40:00.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 was slain by Piglin Knight
+[17May2025 01:41:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to AronTR]
+[17May2025 01:42:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was killed
+[17May2025 01:42:47.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Killed AronTR]
+[17May2025 01:42:47.185] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[17May2025 01:42:50.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to AronTR]
+[17May2025 01:42:58.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to AronTR]
+[17May2025 01:43:12.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR was killed
+[17May2025 01:43:12.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Killed AronTR]
+[17May2025 01:43:12.988] [Server thread/INFO] [tombstone/]: The player AronTR has successfully been saved
+[17May2025 01:43:22.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to AronTR]
+[17May2025 01:43:43.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DestroyMarce7 has made the advancement [Best Friends Forever]
+[17May2025 01:47:10.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16763, l='ServerLevel[Mundo nuevo]', x=1373.42, y=101.00, z=-2579.70] died, message: 'Unemployed was slain by Zombie'
+[17May2025 01:47:39.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ChupetinXD[/127.115.103.227:49217] logged in with entity id 17395 at (1111.0023808977428, -5.0, -1359.4687094836108)
+[17May2025 01:47:39.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD joined the game
+[17May2025 01:47:39.414] [Server thread/INFO] [Jade/]: Syncing config to ChupetinXD (560d7ed8-5a57-3792-966d-7f0718b3c689)
+[17May2025 01:47:49.926] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ChupetinXD (18)
+[17May2025 01:47:49.927] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ChupetinXD
+[17May2025 01:48:07.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> ya t pasé el comando oe gorda
+[17May2025 01:48:08.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ChupetinXD> son 3
+[17May2025 01:50:09.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AronTR lost connection: Timed out
+[17May2025 01:50:09.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR left the game
+[17May2025 01:50:09.427] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AronTR
+[17May2025 01:50:30.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DestroyMarce7: Teleported DestroyMarce7 to 3939.500000, 117.500000, -1504.500000]
+[17May2025 01:50:58.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AronTR[/127.253.182.247:57241] logged in with entity id 19086 at (1358.7647185440846, 126.79673560066871, -2704.5441101169376)
+[17May2025 01:50:58.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR joined the game
+[17May2025 01:50:58.259] [Server thread/INFO] [Jade/]: Syncing config to AronTR (1abab2bd-e836-3702-9517-15ef6b39c0d6)
+[17May2025 01:50:58.797] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AronTR (18)
+[17May2025 01:50:58.798] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AronTR
+[17May2025 01:54:23.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Sneak 100]
+[17May2025 01:54:50.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [A Flaming Sword]
+[17May2025 01:55:08.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Simple Dungeon Room]
+[17May2025 01:55:32.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Greed may lead to loss]
+[17May2025 01:56:35.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Simple Dungeon Room]
+[17May2025 01:56:45.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has made the advancement [Fortune Seeker]
+[17May2025 01:57:02.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AronTR has reached the goal [Spectral Guardian]
+[17May2025 01:57:03.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ChupetinXD has made the advancement [Chest Slayer]
