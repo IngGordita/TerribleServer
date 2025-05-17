@@ -390,6 +390,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-05-14 01:57:02 +0000",
+      "minecraft:mushroom_fields": "2025-05-17 00:58:38 +0000",
       "minecraft:taiga": "2025-05-14 02:08:18 +0000",
       "minecraft:deep_ocean": "2025-05-14 01:47:29 +0000",
       "minecraft:frozen_river": "2025-05-14 02:11:02 +0000",
@@ -5723,15 +5724,57 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 00:54:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
     "criteria": {
       "has_dragonscale_bronze": "2025-05-16 22:27:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-05-17 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/cooking/blazing_chili": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-17 00:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-05-17 00:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-05-17 00:52:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2025-05-16 22:26:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-17 00:56:08 +0000"
     },
     "done": true
   },
@@ -5756,6 +5799,12 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-05-16 22:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-05-17 00:52:18 +0000"
     },
     "done": true
   },

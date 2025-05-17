@@ -5202,7 +5202,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-16 23:36:49 +0000",
       "minecraft:nether_wastes": "2025-05-16 22:49:37 +0000",
-      "minecraft:basalt_deltas": "2025-05-16 03:20:35 +0000"
+      "minecraft:basalt_deltas": "2025-05-16 03:20:35 +0000",
+      "minecraft:warped_forest": "2025-05-17 00:27:30 +0000"
     },
     "done": false
   },
@@ -5220,6 +5221,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:infernal_dunes": "2025-05-17 00:27:32 +0000",
       "incendium:weeping_valley": "2025-05-16 23:36:20 +0000",
       "incendium:inverted_forest": "2025-05-16 23:58:48 +0000",
       "incendium:volcanic_deltas": "2025-05-16 03:22:11 +0000",
@@ -6083,6 +6085,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-05-16 23:45:15 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-05-16 23:51:09 +0000"
@@ -6095,15 +6103,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-05-16 23:45:15 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/netherite_door": {
     "criteria": {
       "has_netherite_scrap": "2025-05-16 23:51:09 +0000"
+    },
+    "done": true
+  },
+  "incendium:infernal_dunes/root": {
+    "criteria": {
+      "incendium:infernal_dunes": "2025-05-17 00:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-05-17 00:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-17 00:34:47 +0000"
     },
     "done": true
   },
