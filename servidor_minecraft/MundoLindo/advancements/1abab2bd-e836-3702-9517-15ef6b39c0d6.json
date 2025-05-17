@@ -153,10 +153,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-05-16 23:49:29 +0000",
       "log_spam_fixer": "2025-05-14 01:37:56 +0000"
     },
-    "done": true
+    "done": false
   },
   "aquaculture:recipes/aquaculture/light_hook": {
     "criteria": {
@@ -1885,7 +1884,8 @@
       "bread": "2025-05-15 19:44:56 +0000",
       "golden_apple": "2025-05-16 03:25:07 +0000",
       "rotten_flesh": "2025-05-14 01:54:01 +0000",
-      "dried_kelp": "2025-05-15 19:01:46 +0000"
+      "dried_kelp": "2025-05-15 19:01:46 +0000",
+      "golden_carrot": "2025-05-16 23:56:57 +0000"
     },
     "done": false
   },
@@ -5221,6 +5221,7 @@
   "incendium:misc/soul_searcher": {
     "criteria": {
       "incendium:weeping_valley": "2025-05-16 23:36:20 +0000",
+      "incendium:inverted_forest": "2025-05-16 23:58:48 +0000",
       "incendium:volcanic_deltas": "2025-05-16 03:22:11 +0000",
       "incendium:toxic_heap": "2025-05-16 20:55:04 +0000"
     },
@@ -6082,9 +6083,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-16 23:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-16 23:51:09 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-05-16 23:45:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-16 23:51:09 +0000"
     },
     "done": true
   },
